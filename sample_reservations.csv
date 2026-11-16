@@ -1,0 +1,1501 @@
+reservation_id,facility_type,requester_type,day_of_week,time_slot,purpose,lead_time_days,duration_hours,expected_attendees,prior_cancellations,prior_noshows,is_recurring,reminder_sent,requires_equipment,final_status,cancel_or_noshow
+R100000,Conference Room,Faculty,Fri,Morning,Meeting,11,2.4,2,0,1,0,1,1,Completed,0
+R100001,Auditorium,External,Wed,Afternoon,Academic,10,0.8,31,1,0,0,1,0,Completed,0
+R100002,Sports Field,Student Org,Tue,Afternoon,Event,9,3.5,45,1,0,0,0,0,Completed,0
+R100003,Conference Room,Faculty,Thu,Afternoon,Academic,4,1.9,72,0,0,0,1,0,No-show,1
+R100004,Classroom,Staff,Mon,Morning,Academic,19,4.4,15,1,1,0,1,0,Completed,0
+R100005,Sports Field,Faculty,Thu,Morning,Meeting,27,0.8,84,1,0,0,1,0,Completed,0
+R100006,Conference Room,Staff,Wed,Afternoon,Event,8,2.3,68,1,0,0,0,1,Completed,0
+R100007,Conference Room,Faculty,Mon,Morning,Sports,23,1.7,27,0,0,0,0,1,Completed,0
+R100008,Classroom,Student Org,Mon,Afternoon,Sports,47,1.3,7,2,2,0,1,0,No-show,1
+R100009,Auditorium,Staff,Thu,Morning,Sports,36,1.9,2,0,0,1,1,0,No-show,1
+R100010,Auditorium,Student Org,Tue,Afternoon,Sports,26,4.6,48,1,0,0,0,1,Cancelled,1
+R100011,Sports Field,Student Org,Fri,Afternoon,Event,5,2.7,18,0,0,0,1,0,No-show,1
+R100012,Conference Room,Faculty,Thu,Evening,Academic,5,1.5,76,0,0,0,0,0,Completed,0
+R100013,Conference Room,Staff,Thu,Morning,Event,18,0.5,20,0,0,0,1,1,Completed,0
+R100014,Auditorium,Staff,Tue,Morning,Academic,12,0.5,13,1,2,0,0,0,Completed,0
+R100015,Classroom,Student Org,Thu,Morning,Academic,2,1.9,47,0,0,1,1,0,Completed,0
+R100016,Laboratory,Student Org,Sat,Afternoon,Academic,9,1.7,19,1,0,0,0,0,Completed,0
+R100017,Classroom,External,Mon,Morning,Sports,17,2.2,40,0,2,0,1,0,Completed,0
+R100018,Conference Room,Student Org,Tue,Afternoon,Event,10,0.5,70,0,0,0,1,1,Completed,0
+R100019,Conference Room,Student Org,Tue,Morning,Training,12,2.4,44,0,0,0,0,0,Completed,0
+R100020,Conference Room,Student Org,Tue,Morning,Training,5,3.7,44,1,0,0,1,0,Completed,0
+R100021,Gymnasium,Faculty,Thu,Afternoon,Sports,8,4.4,46,0,0,0,0,0,Completed,0
+R100022,Sports Field,Staff,Wed,Afternoon,Academic,18,0.5,2,0,0,0,1,0,Completed,0
+R100023,Sports Field,Staff,Wed,Evening,Sports,8,1.5,52,0,0,0,1,0,Completed,0
+R100024,Conference Room,Staff,Tue,Afternoon,Sports,25,1.5,45,0,0,0,0,0,Completed,0
+R100025,Classroom,Student Org,Mon,Afternoon,Sports,12,2.7,67,0,0,0,1,0,Completed,0
+R100026,Auditorium,Student Org,Tue,Afternoon,Academic,15,1.0,58,0,0,0,0,0,Completed,0
+R100027,Classroom,Faculty,Fri,Afternoon,Academic,17,4.5,34,0,0,0,1,1,Completed,0
+R100028,Classroom,Student Org,Thu,Morning,Training,17,2.6,71,1,0,0,1,0,Completed,0
+R100029,Conference Room,Student Org,Tue,Afternoon,Academic,5,2.4,31,0,1,0,0,1,Completed,0
+R100030,Conference Room,Student Org,Fri,Afternoon,Meeting,6,4.4,47,1,0,0,1,0,Completed,0
+R100031,Sports Field,Student Org,Mon,Morning,Meeting,2,2.5,31,1,0,0,1,0,Completed,0
+R100032,Gymnasium,Faculty,Tue,Afternoon,Academic,9,3.0,54,0,0,1,1,1,Completed,0
+R100033,Auditorium,Staff,Tue,Afternoon,Academic,6,1.6,29,1,0,0,1,1,Completed,0
+R100034,Auditorium,Student Org,Sat,Afternoon,Training,8,0.9,89,0,0,0,0,0,No-show,1
+R100035,Classroom,Faculty,Thu,Morning,Sports,10,1.8,101,0,0,0,1,0,Completed,0
+R100036,Classroom,Staff,Thu,Afternoon,Training,13,5.1,66,1,0,0,1,1,Completed,0
+R100037,Laboratory,Staff,Mon,Evening,Academic,10,3.3,86,0,0,0,1,0,Completed,0
+R100038,Classroom,Staff,Mon,Morning,Academic,10,2.8,2,0,0,0,1,0,Completed,0
+R100039,Conference Room,Faculty,Thu,Morning,Meeting,15,1.3,2,0,0,0,1,0,Completed,0
+R100040,Auditorium,Staff,Tue,Morning,Meeting,11,3.6,30,0,0,0,1,1,Completed,0
+R100041,Conference Room,Student Org,Fri,Morning,Academic,20,0.9,41,1,0,0,0,0,No-show,1
+R100042,Conference Room,Student Org,Thu,Evening,Sports,11,0.6,34,1,0,0,0,0,Completed,0
+R100043,Gymnasium,Student Org,Wed,Afternoon,Training,29,1.8,2,4,0,1,1,1,Completed,0
+R100044,Conference Room,Faculty,Thu,Morning,Meeting,5,4.8,75,1,0,0,1,0,Cancelled,1
+R100045,Conference Room,Student Org,Sat,Morning,Meeting,9,4.8,105,2,1,0,1,1,Completed,0
+R100046,Auditorium,Student Org,Wed,Evening,Meeting,7,2.0,78,1,0,0,1,0,Completed,0
+R100047,Gymnasium,Staff,Thu,Morning,Academic,13,1.7,73,2,2,0,1,1,Cancelled,1
+R100048,Conference Room,Student Org,Fri,Afternoon,Academic,5,0.5,47,1,1,1,0,0,Cancelled,1
+R100049,Classroom,Student Org,Tue,Morning,Meeting,3,2.6,15,1,1,0,0,0,Completed,0
+R100050,Classroom,Student Org,Fri,Morning,Meeting,6,2.7,42,2,0,1,1,0,Completed,0
+R100051,Classroom,Faculty,Mon,Afternoon,Meeting,4,3.4,103,0,1,0,1,1,Completed,0
+R100052,Conference Room,Student Org,Thu,Morning,Sports,10,3.6,29,2,1,0,0,0,Completed,0
+R100053,Conference Room,Student Org,Fri,Afternoon,Academic,13,2.3,26,0,0,1,0,0,Completed,0
+R100054,Conference Room,Student Org,Thu,Morning,Academic,3,3.2,73,1,1,0,1,0,Completed,0
+R100055,Conference Room,Staff,Wed,Afternoon,Academic,9,1.7,75,0,2,1,0,0,No-show,1
+R100056,Auditorium,External,Thu,Afternoon,Academic,22,3.1,15,1,0,1,1,1,Completed,0
+R100057,Laboratory,Faculty,Mon,Afternoon,Event,26,1.9,32,0,0,0,0,0,Completed,0
+R100058,Classroom,Faculty,Tue,Morning,Sports,19,3.1,25,2,0,0,1,0,Completed,0
+R100059,Classroom,Staff,Tue,Afternoon,Sports,1,3.0,42,0,0,1,0,1,Completed,0
+R100060,Conference Room,External,Wed,Evening,Event,12,2.6,73,0,0,0,1,0,No-show,1
+R100061,Laboratory,Faculty,Wed,Morning,Meeting,24,3.5,16,0,1,0,1,0,Completed,0
+R100062,Laboratory,Staff,Tue,Morning,Academic,8,0.6,73,0,0,0,0,0,Completed,0
+R100063,Conference Room,External,Fri,Evening,Meeting,4,1.2,43,0,1,0,0,0,Completed,0
+R100064,Conference Room,Staff,Tue,Morning,Meeting,23,2.2,110,0,0,0,0,1,No-show,1
+R100065,Laboratory,Faculty,Wed,Afternoon,Sports,25,0.8,50,0,0,0,1,0,Cancelled,1
+R100066,Laboratory,Student Org,Wed,Afternoon,Meeting,11,2.0,37,2,0,0,0,0,Completed,0
+R100067,Gymnasium,Student Org,Mon,Morning,Academic,4,2.1,57,0,0,0,1,1,Completed,0
+R100068,Classroom,Faculty,Thu,Afternoon,Academic,3,4.1,30,0,1,0,0,0,Completed,0
+R100069,Auditorium,Faculty,Wed,Afternoon,Academic,14,2.7,2,1,0,0,1,1,Completed,0
+R100070,Classroom,Faculty,Mon,Morning,Training,7,3.7,33,0,2,0,1,0,Completed,0
+R100071,Auditorium,Faculty,Sat,Evening,Academic,11,2.9,32,0,1,0,1,1,Cancelled,1
+R100072,Sports Field,Faculty,Fri,Morning,Academic,10,1.9,2,1,0,0,0,1,Completed,0
+R100073,Classroom,Staff,Thu,Morning,Academic,6,2.7,38,0,0,0,0,1,No-show,1
+R100074,Classroom,Student Org,Fri,Evening,Sports,3,3.4,2,1,1,0,1,0,Completed,0
+R100075,Gymnasium,Student Org,Fri,Morning,Meeting,8,3.9,30,1,2,0,0,1,Completed,0
+R100076,Gymnasium,Staff,Tue,Evening,Event,12,2.3,47,2,0,0,1,1,Cancelled,1
+R100077,Conference Room,Staff,Thu,Morning,Meeting,13,0.5,43,1,0,0,1,0,Completed,0
+R100078,Laboratory,External,Thu,Afternoon,Academic,7,0.5,28,0,0,1,1,0,Completed,0
+R100079,Conference Room,Staff,Tue,Morning,Sports,25,2.1,37,0,0,0,0,0,Completed,0
+R100080,Conference Room,Staff,Tue,Afternoon,Academic,5,0.5,16,0,1,0,0,1,No-show,1
+R100081,Auditorium,Student Org,Mon,Afternoon,Academic,21,4.7,40,1,0,1,0,1,Completed,0
+R100082,Conference Room,Faculty,Thu,Evening,Event,12,3.2,42,1,2,0,1,0,Completed,0
+R100083,Classroom,Student Org,Fri,Evening,Academic,8,1.7,13,1,0,1,1,0,Completed,0
+R100084,Classroom,Faculty,Thu,Afternoon,Academic,15,1.2,48,0,0,0,0,0,Completed,0
+R100085,Classroom,External,Tue,Afternoon,Sports,10,3.7,48,0,1,0,1,0,Completed,0
+R100086,Conference Room,Student Org,Tue,Afternoon,Meeting,3,1.2,35,1,0,0,1,1,Completed,0
+R100087,Auditorium,Faculty,Wed,Evening,Academic,4,1.3,113,0,0,0,0,0,Cancelled,1
+R100088,Classroom,Student Org,Wed,Afternoon,Meeting,9,1.6,36,0,0,0,1,1,Completed,0
+R100089,Laboratory,Student Org,Fri,Evening,Event,7,2.6,32,1,0,0,1,0,Cancelled,1
+R100090,Classroom,Student Org,Fri,Morning,Academic,21,3.2,27,1,0,0,0,0,Completed,0
+R100091,Conference Room,Student Org,Fri,Afternoon,Academic,7,3.9,11,0,0,0,0,1,Cancelled,1
+R100092,Auditorium,External,Fri,Afternoon,Event,7,3.8,61,0,1,0,0,0,No-show,1
+R100093,Auditorium,Faculty,Sat,Morning,Event,6,2.5,19,0,0,0,0,1,Completed,0
+R100094,Gymnasium,Staff,Wed,Morning,Training,6,3.7,23,0,0,1,1,1,Completed,0
+R100095,Conference Room,Faculty,Mon,Evening,Meeting,6,1.7,24,1,1,0,0,1,No-show,1
+R100096,Gymnasium,Student Org,Mon,Afternoon,Academic,4,0.5,10,2,0,0,0,1,Completed,0
+R100097,Classroom,Student Org,Tue,Morning,Meeting,13,1.7,2,2,0,0,0,0,Completed,0
+R100098,Classroom,Staff,Tue,Morning,Event,10,1.5,26,1,0,0,1,0,Completed,0
+R100099,Sports Field,Student Org,Mon,Morning,Academic,10,1.7,66,3,0,1,1,1,Completed,0
+R100100,Sports Field,External,Sat,Afternoon,Event,3,1.3,46,1,0,0,1,0,No-show,1
+R100101,Conference Room,Student Org,Mon,Evening,Academic,15,1.9,87,1,1,0,1,1,Cancelled,1
+R100102,Gymnasium,Faculty,Sat,Evening,Sports,16,3.2,63,0,0,0,0,0,Completed,0
+R100103,Sports Field,Staff,Thu,Afternoon,Sports,28,4.6,56,0,0,0,0,1,Completed,0
+R100104,Conference Room,Student Org,Thu,Afternoon,Meeting,15,0.5,96,0,2,0,1,0,Completed,0
+R100105,Conference Room,Student Org,Thu,Morning,Training,32,1.0,37,0,1,0,0,1,Completed,0
+R100106,Auditorium,External,Tue,Evening,Training,7,1.6,42,0,1,0,1,0,Completed,0
+R100107,Gymnasium,Student Org,Thu,Morning,Academic,29,3.4,40,1,1,0,0,0,Cancelled,1
+R100108,Classroom,Faculty,Mon,Morning,Meeting,15,2.3,86,1,0,0,0,1,Completed,0
+R100109,Sports Field,Faculty,Sat,Evening,Event,14,1.6,40,1,0,0,0,0,Completed,0
+R100110,Auditorium,Student Org,Tue,Evening,Academic,10,3.4,21,1,0,0,0,0,Completed,0
+R100111,Classroom,Staff,Tue,Morning,Meeting,8,3.6,58,0,1,0,0,0,Completed,0
+R100112,Gymnasium,Staff,Thu,Afternoon,Academic,7,2.5,16,0,0,0,0,0,Completed,0
+R100113,Laboratory,Student Org,Thu,Afternoon,Training,30,1.5,56,2,0,0,1,0,Completed,0
+R100114,Classroom,Staff,Wed,Morning,Meeting,9,2.8,52,0,0,0,0,0,Completed,0
+R100115,Sports Field,Student Org,Thu,Morning,Sports,16,2.2,34,1,0,0,1,0,Completed,0
+R100116,Conference Room,Student Org,Mon,Morning,Meeting,18,2.2,57,1,0,0,1,0,Completed,0
+R100117,Conference Room,Faculty,Thu,Afternoon,Academic,18,1.9,2,0,0,0,0,1,Completed,0
+R100118,Auditorium,External,Tue,Afternoon,Sports,13,3.6,45,0,0,0,0,1,Completed,0
+R100119,Conference Room,Student Org,Tue,Afternoon,Academic,29,2.8,26,0,0,0,0,0,Completed,0
+R100120,Laboratory,Student Org,Mon,Morning,Academic,15,3.7,126,0,0,0,1,0,Completed,0
+R100121,Conference Room,Faculty,Tue,Evening,Meeting,7,4.1,45,0,0,0,1,0,Completed,0
+R100122,Classroom,Staff,Tue,Afternoon,Event,9,3.1,22,0,1,0,1,1,Completed,0
+R100123,Auditorium,Student Org,Wed,Evening,Meeting,3,1.9,2,1,1,0,0,1,Completed,0
+R100124,Classroom,Student Org,Mon,Morning,Academic,14,3.7,79,2,0,0,0,0,Completed,0
+R100125,Laboratory,Staff,Mon,Afternoon,Meeting,16,3.1,29,1,1,0,0,0,Completed,0
+R100126,Gymnasium,Student Org,Wed,Evening,Academic,17,5.6,16,1,0,0,1,1,No-show,1
+R100127,Classroom,Student Org,Mon,Morning,Academic,15,2.9,50,0,0,1,0,0,Completed,0
+R100128,Classroom,Student Org,Thu,Morning,Meeting,10,3.3,59,2,0,0,1,0,Completed,0
+R100129,Laboratory,Faculty,Sat,Morning,Academic,11,2.8,59,1,0,0,0,0,Completed,0
+R100130,Classroom,Faculty,Wed,Morning,Academic,11,2.4,41,0,0,0,1,1,Completed,0
+R100131,Sports Field,Staff,Fri,Afternoon,Event,21,2.2,45,2,0,0,1,0,Cancelled,1
+R100132,Laboratory,Faculty,Mon,Morning,Event,2,2.9,47,0,0,0,1,0,Completed,0
+R100133,Gymnasium,Faculty,Mon,Morning,Academic,8,3.1,50,0,0,1,0,1,No-show,1
+R100134,Laboratory,External,Thu,Afternoon,Meeting,5,3.9,53,0,2,0,1,0,Completed,0
+R100135,Classroom,Faculty,Thu,Morning,Academic,36,2.9,73,1,0,0,1,0,Completed,0
+R100136,Sports Field,Faculty,Fri,Morning,Training,23,1.9,42,1,0,0,0,0,Completed,0
+R100137,Laboratory,External,Mon,Afternoon,Academic,8,2.1,15,0,0,0,0,1,Completed,0
+R100138,Conference Room,Student Org,Thu,Morning,Academic,4,0.9,36,0,1,0,0,0,Completed,0
+R100139,Classroom,Staff,Tue,Morning,Meeting,4,4.5,63,0,0,1,1,0,Completed,0
+R100140,Laboratory,Staff,Tue,Morning,Academic,21,1.9,2,0,1,1,0,1,Completed,0
+R100141,Laboratory,Student Org,Mon,Morning,Academic,3,3.7,2,3,0,0,1,1,Cancelled,1
+R100142,Sports Field,Faculty,Sat,Afternoon,Academic,11,2.8,68,3,1,0,1,0,Completed,0
+R100143,Laboratory,Student Org,Mon,Morning,Event,19,2.9,86,0,0,0,1,0,Completed,0
+R100144,Laboratory,Student Org,Fri,Morning,Event,4,2.4,2,1,1,0,1,0,Completed,0
+R100145,Gymnasium,Faculty,Thu,Evening,Event,11,1.6,43,0,0,0,1,0,Completed,0
+R100146,Gymnasium,Student Org,Thu,Evening,Sports,8,1.3,28,1,0,0,1,0,Completed,0
+R100147,Laboratory,Staff,Thu,Morning,Meeting,7,4.6,32,0,0,1,1,1,Completed,0
+R100148,Auditorium,External,Fri,Morning,Training,7,2.6,49,1,1,0,0,1,Completed,0
+R100149,Classroom,Staff,Mon,Afternoon,Event,20,3.9,2,0,0,1,1,1,No-show,1
+R100150,Conference Room,Student Org,Mon,Evening,Sports,27,4.2,7,0,0,1,1,0,Completed,0
+R100151,Sports Field,Student Org,Wed,Evening,Event,9,2.0,31,2,0,0,1,0,Completed,0
+R100152,Classroom,Student Org,Tue,Morning,Meeting,14,3.0,36,1,1,0,0,1,Completed,0
+R100153,Laboratory,Student Org,Mon,Morning,Academic,11,2.6,6,1,0,0,0,0,No-show,1
+R100154,Classroom,External,Mon,Afternoon,Meeting,2,1.1,64,1,1,1,1,0,Cancelled,1
+R100155,Conference Room,Faculty,Tue,Evening,Academic,9,2.3,27,1,0,0,0,0,Completed,0
+R100156,Gymnasium,Student Org,Mon,Evening,Meeting,2,3.2,27,0,0,1,0,0,Completed,0
+R100157,Conference Room,Staff,Mon,Morning,Academic,8,1.9,48,0,0,0,0,0,Completed,0
+R100158,Conference Room,Student Org,Fri,Afternoon,Academic,11,2.1,36,0,1,0,1,0,Completed,0
+R100159,Conference Room,Student Org,Tue,Morning,Training,18,2.3,65,2,1,1,1,1,Completed,0
+R100160,Classroom,Student Org,Sat,Afternoon,Event,13,5.0,12,2,0,0,1,0,Completed,0
+R100161,Sports Field,Faculty,Sat,Evening,Event,20,0.5,2,0,0,0,1,0,Cancelled,1
+R100162,Classroom,Staff,Mon,Afternoon,Meeting,6,3.1,31,0,0,0,1,0,Completed,0
+R100163,Classroom,Student Org,Thu,Morning,Event,25,2.2,42,0,0,0,0,0,Completed,0
+R100164,Laboratory,External,Thu,Afternoon,Sports,27,1.7,3,1,1,0,1,0,Cancelled,1
+R100165,Auditorium,Staff,Thu,Afternoon,Event,2,2.2,2,1,2,0,1,0,Completed,0
+R100166,Conference Room,Staff,Mon,Evening,Event,3,3.3,45,0,1,0,0,0,Completed,0
+R100167,Conference Room,Student Org,Mon,Morning,Meeting,11,3.4,17,1,0,0,0,0,Completed,0
+R100168,Gymnasium,Student Org,Mon,Evening,Meeting,7,2.7,2,1,0,0,1,1,Cancelled,1
+R100169,Sports Field,Staff,Thu,Morning,Event,8,3.8,69,0,0,0,0,0,Completed,0
+R100170,Gymnasium,Student Org,Sat,Morning,Training,13,4.0,21,3,0,0,1,0,Completed,0
+R100171,Laboratory,Faculty,Thu,Morning,Meeting,20,3.5,74,1,0,1,1,1,Completed,0
+R100172,Gymnasium,Staff,Thu,Morning,Meeting,5,1.8,41,0,1,0,1,1,Completed,0
+R100173,Sports Field,Student Org,Sat,Morning,Meeting,23,3.1,49,2,1,1,1,1,Completed,0
+R100174,Classroom,Staff,Thu,Afternoon,Meeting,6,3.1,34,1,0,0,0,0,Completed,0
+R100175,Classroom,External,Mon,Morning,Training,40,1.5,2,2,0,0,1,1,Cancelled,1
+R100176,Auditorium,Staff,Fri,Morning,Event,25,0.6,6,2,0,0,0,0,Completed,0
+R100177,Sports Field,Faculty,Tue,Morning,Meeting,7,0.5,36,0,0,0,1,1,Completed,0
+R100178,Sports Field,Staff,Mon,Morning,Meeting,4,2.6,51,0,1,0,0,1,Completed,0
+R100179,Conference Room,Faculty,Wed,Evening,Meeting,7,2.9,2,1,0,0,1,0,Completed,0
+R100180,Sports Field,Staff,Sat,Evening,Academic,6,1.1,38,1,1,0,0,1,No-show,1
+R100181,Sports Field,Staff,Tue,Morning,Meeting,16,3.8,6,1,1,1,1,1,Cancelled,1
+R100182,Laboratory,Staff,Wed,Afternoon,Sports,2,2.7,47,2,0,0,0,0,Cancelled,1
+R100183,Gymnasium,Student Org,Mon,Afternoon,Event,3,4.1,39,1,0,0,0,0,Cancelled,1
+R100184,Conference Room,Student Org,Mon,Evening,Academic,16,2.9,62,2,0,0,1,1,No-show,1
+R100185,Conference Room,Student Org,Mon,Morning,Event,6,1.2,72,0,0,0,1,0,Completed,0
+R100186,Auditorium,Faculty,Thu,Morning,Event,8,3.0,54,0,0,0,0,0,Completed,0
+R100187,Classroom,Faculty,Fri,Afternoon,Academic,18,3.3,66,0,1,1,0,0,Completed,0
+R100188,Conference Room,Faculty,Mon,Evening,Event,21,1.8,29,1,0,1,1,1,No-show,1
+R100189,Gymnasium,Student Org,Tue,Afternoon,Event,24,0.8,125,4,0,0,0,1,Completed,0
+R100190,Sports Field,Staff,Mon,Afternoon,Sports,17,2.6,3,1,0,0,0,0,Completed,0
+R100191,Classroom,External,Mon,Morning,Academic,9,1.3,24,1,0,0,0,1,Cancelled,1
+R100192,Classroom,Student Org,Wed,Afternoon,Academic,9,3.8,67,0,0,0,1,1,Completed,0
+R100193,Conference Room,Staff,Thu,Evening,Meeting,8,2.0,63,2,0,0,1,0,Completed,0
+R100194,Classroom,Faculty,Thu,Morning,Academic,4,4.6,55,1,0,0,1,0,Completed,0
+R100195,Classroom,Faculty,Tue,Afternoon,Meeting,5,0.5,60,0,0,1,0,0,Completed,0
+R100196,Laboratory,Student Org,Wed,Afternoon,Sports,22,2.7,2,0,1,0,0,1,Completed,0
+R100197,Sports Field,Staff,Mon,Afternoon,Academic,6,4.2,88,0,2,0,1,0,Completed,0
+R100198,Classroom,External,Mon,Afternoon,Meeting,4,1.4,34,0,1,1,1,0,Completed,0
+R100199,Gymnasium,Staff,Sat,Afternoon,Training,23,2.3,77,0,1,0,1,0,Completed,0
+R100200,Conference Room,External,Thu,Evening,Meeting,13,2.0,2,0,0,0,1,0,Cancelled,1
+R100201,Sports Field,External,Fri,Afternoon,Meeting,30,1.7,48,0,0,1,0,0,Completed,0
+R100202,Laboratory,Student Org,Fri,Morning,Event,28,2.8,23,1,1,0,0,0,Completed,0
+R100203,Classroom,Faculty,Thu,Morning,Academic,4,0.9,57,1,1,0,1,0,Completed,0
+R100204,Classroom,Faculty,Fri,Morning,Academic,10,2.4,50,0,0,0,1,1,Completed,0
+R100205,Classroom,External,Wed,Morning,Event,5,3.1,51,0,1,1,1,1,Completed,0
+R100206,Classroom,Student Org,Mon,Morning,Meeting,5,2.2,8,6,0,0,0,1,Cancelled,1
+R100207,Conference Room,Faculty,Mon,Afternoon,Academic,8,1.3,38,2,0,0,0,0,Completed,0
+R100208,Classroom,Staff,Mon,Morning,Academic,16,3.7,35,0,1,0,1,0,Completed,0
+R100209,Laboratory,Student Org,Mon,Morning,Sports,17,3.4,55,1,0,0,1,1,Completed,0
+R100210,Conference Room,Staff,Tue,Afternoon,Academic,15,1.3,70,0,0,0,0,0,Completed,0
+R100211,Laboratory,Student Org,Thu,Morning,Event,9,0.9,45,2,0,0,0,0,No-show,1
+R100212,Classroom,External,Fri,Afternoon,Meeting,17,1.4,2,1,4,1,1,0,Completed,0
+R100213,Conference Room,Staff,Wed,Evening,Event,4,3.2,43,0,0,0,1,0,No-show,1
+R100214,Conference Room,Student Org,Mon,Afternoon,Academic,13,2.8,118,1,1,1,0,0,Completed,0
+R100215,Conference Room,Staff,Thu,Morning,Academic,11,3.4,89,1,0,1,0,1,Completed,0
+R100216,Classroom,Student Org,Tue,Morning,Meeting,9,2.1,2,1,0,1,0,1,Completed,0
+R100217,Classroom,Faculty,Mon,Afternoon,Event,13,1.4,42,1,1,0,1,1,Completed,0
+R100218,Sports Field,Faculty,Tue,Afternoon,Academic,2,3.6,68,0,1,0,1,1,Completed,0
+R100219,Auditorium,Staff,Tue,Morning,Meeting,5,1.8,35,0,0,1,1,1,Completed,0
+R100220,Gymnasium,Student Org,Tue,Afternoon,Meeting,16,2.7,26,2,0,0,0,0,No-show,1
+R100221,Laboratory,Student Org,Fri,Afternoon,Academic,11,0.6,32,1,1,0,0,0,Cancelled,1
+R100222,Conference Room,Staff,Thu,Morning,Event,3,1.8,57,0,1,0,1,1,Completed,0
+R100223,Sports Field,Faculty,Thu,Afternoon,Academic,11,3.7,6,1,1,0,0,0,Completed,0
+R100224,Gymnasium,Faculty,Mon,Morning,Meeting,7,1.6,76,2,0,0,0,1,Completed,0
+R100225,Sports Field,Student Org,Fri,Morning,Academic,22,3.5,38,3,1,0,1,0,Completed,0
+R100226,Classroom,Student Org,Thu,Evening,Meeting,4,0.5,12,0,1,0,0,0,Completed,0
+R100227,Laboratory,Staff,Mon,Morning,Meeting,4,1.8,74,2,0,0,0,1,Completed,0
+R100228,Conference Room,Student Org,Thu,Afternoon,Meeting,14,2.3,2,1,0,0,1,1,Completed,0
+R100229,Classroom,Student Org,Wed,Afternoon,Meeting,10,4.6,23,1,2,1,0,1,Completed,0
+R100230,Classroom,External,Wed,Morning,Training,9,1.1,23,0,2,0,1,0,Completed,0
+R100231,Auditorium,Student Org,Mon,Evening,Meeting,40,3.3,104,0,0,0,0,0,Cancelled,1
+R100232,Sports Field,Staff,Wed,Morning,Sports,17,3.8,19,0,0,0,0,0,Completed,0
+R100233,Laboratory,Student Org,Mon,Morning,Academic,9,1.6,2,0,0,1,0,1,Completed,0
+R100234,Sports Field,Staff,Mon,Evening,Meeting,3,2.1,23,1,0,0,0,0,Completed,0
+R100235,Conference Room,Staff,Mon,Afternoon,Academic,8,2.7,54,0,0,0,1,0,Completed,0
+R100236,Auditorium,Staff,Sat,Afternoon,Meeting,4,0.7,64,0,0,0,1,0,No-show,1
+R100237,Conference Room,Student Org,Tue,Morning,Event,5,2.0,108,3,0,1,0,1,Completed,0
+R100238,Classroom,Faculty,Tue,Morning,Sports,5,4.0,82,1,2,0,1,0,Cancelled,1
+R100239,Classroom,Staff,Tue,Afternoon,Event,21,3.1,46,0,1,0,0,1,Completed,0
+R100240,Conference Room,Student Org,Fri,Morning,Event,3,2.3,13,1,0,0,1,0,Completed,0
+R100241,Conference Room,Student Org,Wed,Morning,Academic,20,2.6,89,1,0,0,1,1,Cancelled,1
+R100242,Classroom,Student Org,Fri,Afternoon,Academic,15,3.2,29,0,0,0,1,1,Completed,0
+R100243,Laboratory,External,Tue,Morning,Sports,15,3.4,20,0,1,0,0,0,Completed,0
+R100244,Laboratory,Staff,Mon,Morning,Academic,5,1.8,27,0,0,0,1,0,Completed,0
+R100245,Sports Field,Faculty,Wed,Morning,Academic,18,4.3,2,0,0,0,0,0,Completed,0
+R100246,Laboratory,Staff,Tue,Afternoon,Training,5,4.1,26,0,0,0,1,0,Completed,0
+R100247,Auditorium,Faculty,Fri,Afternoon,Training,27,3.3,33,0,0,1,0,1,Cancelled,1
+R100248,Auditorium,Faculty,Fri,Evening,Event,22,1.5,62,0,0,0,0,0,Completed,0
+R100249,Auditorium,Faculty,Wed,Morning,Meeting,30,1.3,28,1,0,0,1,0,Cancelled,1
+R100250,Conference Room,Faculty,Sat,Morning,Sports,11,2.1,2,0,1,0,1,1,Completed,0
+R100251,Sports Field,Student Org,Wed,Afternoon,Academic,10,2.6,2,0,0,0,1,0,Completed,0
+R100252,Auditorium,Staff,Tue,Morning,Meeting,8,0.5,46,0,0,1,1,0,Completed,0
+R100253,Classroom,Staff,Wed,Afternoon,Meeting,39,3.1,42,0,0,0,0,1,Completed,0
+R100254,Classroom,Student Org,Mon,Evening,Training,16,4.0,23,1,0,1,1,1,Completed,0
+R100255,Conference Room,Faculty,Fri,Afternoon,Training,4,3.2,26,1,0,0,0,0,Cancelled,1
+R100256,Conference Room,Student Org,Mon,Afternoon,Event,25,1.7,52,0,1,0,0,0,Completed,0
+R100257,Classroom,External,Tue,Evening,Academic,9,1.5,82,0,1,0,1,0,Completed,0
+R100258,Classroom,External,Wed,Morning,Meeting,1,2.9,17,1,1,0,0,0,Completed,0
+R100259,Laboratory,External,Mon,Evening,Academic,6,2.3,43,1,0,1,0,1,Completed,0
+R100260,Classroom,Student Org,Mon,Afternoon,Sports,21,3.0,69,0,0,0,1,0,Completed,0
+R100261,Conference Room,Student Org,Thu,Afternoon,Academic,15,3.2,17,0,0,0,0,0,Completed,0
+R100262,Gymnasium,Student Org,Mon,Evening,Academic,17,3.8,40,3,0,0,0,0,Cancelled,1
+R100263,Classroom,Student Org,Wed,Afternoon,Event,25,1.1,39,1,0,0,1,1,Completed,0
+R100264,Sports Field,Student Org,Tue,Afternoon,Meeting,2,2.8,2,1,0,0,1,1,Completed,0
+R100265,Classroom,Student Org,Tue,Morning,Sports,6,2.1,45,2,1,0,1,0,Completed,0
+R100266,Gymnasium,External,Mon,Afternoon,Academic,11,2.4,41,0,0,0,1,0,No-show,1
+R100267,Classroom,Student Org,Thu,Afternoon,Sports,22,3.5,57,1,0,0,0,0,Completed,0
+R100268,Classroom,Student Org,Sat,Morning,Academic,5,3.7,4,1,0,0,1,0,Completed,0
+R100269,Classroom,Staff,Mon,Afternoon,Academic,8,4.2,40,1,1,0,0,1,Completed,0
+R100270,Classroom,Faculty,Sat,Afternoon,Meeting,11,3.0,81,0,0,1,1,1,Completed,0
+R100271,Classroom,Staff,Wed,Morning,Academic,6,2.4,102,0,1,0,1,1,Completed,0
+R100272,Classroom,Faculty,Thu,Morning,Event,11,2.2,78,0,0,0,0,0,Completed,0
+R100273,Laboratory,Staff,Thu,Afternoon,Academic,10,0.5,5,0,2,1,1,1,Completed,0
+R100274,Conference Room,Faculty,Thu,Morning,Academic,7,4.1,54,0,0,0,1,0,Completed,0
+R100275,Auditorium,Faculty,Fri,Morning,Event,18,2.1,26,1,0,0,1,0,Completed,0
+R100276,Gymnasium,Staff,Wed,Afternoon,Academic,16,3.1,49,0,0,0,1,0,Completed,0
+R100277,Laboratory,Faculty,Wed,Morning,Event,19,3.3,17,1,0,0,1,1,Completed,0
+R100278,Sports Field,Student Org,Tue,Morning,Event,20,1.0,2,4,0,1,1,1,Cancelled,1
+R100279,Sports Field,Faculty,Mon,Afternoon,Academic,29,1.4,30,0,0,0,0,0,Completed,0
+R100280,Classroom,Student Org,Thu,Morning,Sports,3,4.4,62,2,1,0,0,1,Completed,0
+R100281,Classroom,Staff,Mon,Evening,Academic,3,2.8,49,1,1,0,0,1,No-show,1
+R100282,Classroom,Student Org,Tue,Evening,Meeting,17,1.8,52,0,0,0,0,1,Cancelled,1
+R100283,Classroom,Student Org,Mon,Afternoon,Academic,8,2.3,46,2,0,1,1,0,Completed,0
+R100284,Laboratory,Student Org,Mon,Evening,Sports,7,3.8,52,1,0,0,1,1,Completed,0
+R100285,Auditorium,Staff,Thu,Evening,Event,6,3.6,56,1,0,0,0,1,No-show,1
+R100286,Classroom,Student Org,Thu,Morning,Meeting,19,0.7,32,1,1,0,1,1,Completed,0
+R100287,Auditorium,Faculty,Wed,Afternoon,Training,38,4.5,42,0,0,0,1,0,Cancelled,1
+R100288,Laboratory,Staff,Mon,Morning,Meeting,20,3.7,92,1,0,0,1,1,Cancelled,1
+R100289,Classroom,Student Org,Wed,Afternoon,Sports,7,2.3,44,1,1,0,0,1,Completed,0
+R100290,Conference Room,Staff,Tue,Afternoon,Event,18,1.1,41,1,0,0,1,0,Completed,0
+R100291,Classroom,Student Org,Thu,Morning,Training,3,3.8,43,2,0,1,1,1,No-show,1
+R100292,Sports Field,Student Org,Wed,Morning,Training,9,3.1,33,3,1,1,1,0,Completed,0
+R100293,Classroom,Faculty,Wed,Evening,Training,2,0.8,27,0,0,0,0,0,Completed,0
+R100294,Conference Room,External,Wed,Morning,Academic,8,2.2,46,0,2,1,1,0,Completed,0
+R100295,Sports Field,Student Org,Sat,Morning,Sports,12,6.3,25,2,1,0,0,0,Cancelled,1
+R100296,Sports Field,Faculty,Thu,Morning,Sports,42,2.5,36,1,0,0,1,0,Cancelled,1
+R100297,Conference Room,Student Org,Wed,Afternoon,Event,23,1.6,16,1,0,0,1,0,Completed,0
+R100298,Conference Room,Faculty,Wed,Evening,Academic,2,1.3,43,0,0,1,1,0,Completed,0
+R100299,Conference Room,Faculty,Mon,Afternoon,Training,3,4.6,58,0,0,0,1,0,Completed,0
+R100300,Conference Room,Faculty,Sat,Afternoon,Academic,6,3.5,34,0,1,0,1,0,Completed,0
+R100301,Classroom,Faculty,Tue,Morning,Meeting,32,4.2,2,1,0,0,0,1,Cancelled,1
+R100302,Laboratory,Student Org,Tue,Morning,Meeting,2,2.8,58,0,2,0,1,0,Completed,0
+R100303,Laboratory,Faculty,Sat,Afternoon,Academic,6,4.0,44,0,0,0,0,0,Completed,0
+R100304,Sports Field,Faculty,Thu,Evening,Event,6,1.5,10,1,2,0,1,0,Completed,0
+R100305,Auditorium,Faculty,Mon,Afternoon,Academic,14,2.7,63,0,1,1,1,0,Cancelled,1
+R100306,Auditorium,Student Org,Mon,Afternoon,Event,19,2.8,2,1,0,0,0,0,Completed,0
+R100307,Conference Room,Faculty,Mon,Afternoon,Sports,16,4.2,71,0,0,0,0,1,Completed,0
+R100308,Gymnasium,Faculty,Wed,Afternoon,Meeting,13,2.9,38,0,0,1,1,0,Completed,0
+R100309,Classroom,Student Org,Mon,Afternoon,Event,3,1.7,2,2,0,0,1,0,Completed,0
+R100310,Laboratory,Student Org,Sat,Afternoon,Academic,12,2.6,45,4,0,0,0,0,Cancelled,1
+R100311,Auditorium,Faculty,Sat,Afternoon,Sports,25,0.5,28,0,0,0,1,0,Completed,0
+R100312,Classroom,Staff,Wed,Afternoon,Training,31,0.5,23,0,1,0,0,1,Cancelled,1
+R100313,Gymnasium,Student Org,Thu,Evening,Academic,14,3.5,18,2,0,0,0,1,Cancelled,1
+R100314,Gymnasium,Staff,Tue,Afternoon,Event,2,2.1,36,2,0,0,1,0,Completed,0
+R100315,Gymnasium,Faculty,Mon,Morning,Meeting,14,2.2,25,1,0,1,0,0,Cancelled,1
+R100316,Auditorium,Staff,Thu,Morning,Meeting,10,3.5,2,2,0,1,1,0,Completed,0
+R100317,Conference Room,Faculty,Mon,Afternoon,Event,3,4.2,78,0,0,0,0,0,Completed,0
+R100318,Gymnasium,Faculty,Mon,Afternoon,Meeting,4,3.1,33,1,0,0,0,0,Cancelled,1
+R100319,Sports Field,Faculty,Tue,Afternoon,Event,5,4.8,18,0,1,0,0,1,Completed,0
+R100320,Sports Field,External,Mon,Afternoon,Academic,17,3.1,6,0,0,0,0,0,Completed,0
+R100321,Laboratory,Faculty,Wed,Morning,Meeting,30,2.9,63,0,1,0,0,0,Completed,0
+R100322,Gymnasium,Faculty,Thu,Afternoon,Sports,15,2.8,2,0,0,0,1,1,Completed,0
+R100323,Laboratory,Faculty,Fri,Afternoon,Academic,18,1.0,44,1,0,0,1,0,Completed,0
+R100324,Conference Room,Staff,Thu,Afternoon,Event,10,3.6,22,1,0,0,1,0,Completed,0
+R100325,Conference Room,Student Org,Fri,Afternoon,Academic,7,0.5,24,1,0,0,1,1,Completed,0
+R100326,Conference Room,Faculty,Wed,Morning,Sports,16,1.8,7,2,1,0,0,0,Completed,0
+R100327,Laboratory,Faculty,Fri,Afternoon,Event,13,2.5,21,1,1,0,1,0,Completed,0
+R100328,Conference Room,External,Wed,Afternoon,Meeting,6,1.6,40,0,2,0,0,1,Completed,0
+R100329,Gymnasium,Faculty,Tue,Evening,Academic,12,2.0,47,1,0,1,1,0,Completed,0
+R100330,Conference Room,Faculty,Sat,Afternoon,Meeting,11,4.7,16,1,0,0,1,1,Cancelled,1
+R100331,Classroom,External,Tue,Morning,Training,8,3.8,37,1,0,0,1,0,Completed,0
+R100332,Conference Room,Faculty,Mon,Afternoon,Meeting,7,1.7,67,0,0,0,0,0,Completed,0
+R100333,Sports Field,Student Org,Tue,Afternoon,Meeting,14,1.9,2,2,0,0,1,1,Completed,0
+R100334,Classroom,Student Org,Tue,Morning,Event,7,1.0,40,1,0,0,1,0,Completed,0
+R100335,Laboratory,Student Org,Tue,Evening,Meeting,38,3.3,11,0,0,0,1,1,Cancelled,1
+R100336,Classroom,Student Org,Wed,Morning,Meeting,15,2.2,8,0,0,0,0,0,Completed,0
+R100337,Conference Room,Faculty,Fri,Morning,Meeting,14,0.5,48,1,0,0,1,0,Completed,0
+R100338,Classroom,Staff,Tue,Morning,Academic,9,2.6,24,0,0,0,0,1,Completed,0
+R100339,Sports Field,Staff,Wed,Morning,Event,8,3.0,3,0,0,1,1,0,Completed,0
+R100340,Classroom,Student Org,Tue,Evening,Sports,2,3.7,80,1,0,0,1,0,Completed,0
+R100341,Sports Field,Faculty,Fri,Afternoon,Training,6,2.4,68,0,0,0,0,0,Completed,0
+R100342,Conference Room,Student Org,Mon,Morning,Sports,2,2.1,2,1,0,0,0,1,Completed,0
+R100343,Laboratory,External,Mon,Afternoon,Meeting,2,4.9,2,0,2,0,0,1,Completed,0
+R100344,Conference Room,Student Org,Wed,Morning,Academic,4,2.5,58,1,0,1,1,0,Completed,0
+R100345,Conference Room,Faculty,Thu,Morning,Event,24,3.4,31,2,0,0,0,0,Completed,0
+R100346,Sports Field,Student Org,Fri,Morning,Training,24,1.9,85,1,0,0,1,0,Completed,0
+R100347,Gymnasium,Faculty,Wed,Afternoon,Event,6,3.3,58,1,0,0,0,0,Cancelled,1
+R100348,Laboratory,Faculty,Thu,Morning,Meeting,3,0.8,49,0,0,0,1,0,Completed,0
+R100349,Classroom,Staff,Tue,Afternoon,Event,8,1.9,9,0,0,0,1,1,Completed,0
+R100350,Laboratory,Student Org,Mon,Morning,Sports,17,1.1,55,0,0,0,1,0,Completed,0
+R100351,Classroom,External,Mon,Afternoon,Training,21,1.8,2,1,1,0,0,0,Completed,0
+R100352,Laboratory,Faculty,Mon,Evening,Sports,12,4.0,79,2,2,0,0,0,Cancelled,1
+R100353,Laboratory,Staff,Tue,Morning,Meeting,14,1.8,53,0,1,0,1,0,Completed,0
+R100354,Auditorium,Staff,Wed,Morning,Academic,13,3.4,15,2,0,0,1,0,Completed,0
+R100355,Laboratory,External,Tue,Evening,Meeting,2,4.3,64,1,0,0,1,0,Completed,0
+R100356,Conference Room,Student Org,Wed,Afternoon,Meeting,3,2.5,107,2,1,0,1,0,Completed,0
+R100357,Conference Room,Student Org,Wed,Afternoon,Training,31,3.7,33,1,0,0,0,1,No-show,1
+R100358,Laboratory,Student Org,Thu,Morning,Meeting,12,3.1,57,1,0,0,1,0,Completed,0
+R100359,Laboratory,Student Org,Thu,Morning,Meeting,1,2.6,27,2,0,0,1,0,Completed,0
+R100360,Sports Field,Faculty,Tue,Afternoon,Meeting,14,3.4,43,0,0,0,1,1,Completed,0
+R100361,Classroom,External,Tue,Evening,Event,5,4.7,2,0,1,1,1,0,Completed,0
+R100362,Classroom,External,Wed,Morning,Meeting,22,1.7,40,0,1,0,0,0,Completed,0
+R100363,Classroom,Faculty,Wed,Afternoon,Academic,20,1.3,41,0,0,0,1,1,Completed,0
+R100364,Conference Room,Faculty,Tue,Afternoon,Sports,16,1.3,94,0,0,0,0,0,No-show,1
+R100365,Auditorium,Staff,Tue,Morning,Meeting,12,3.7,2,1,0,0,0,0,Completed,0
+R100366,Conference Room,External,Thu,Morning,Meeting,25,3.9,32,0,1,0,1,1,No-show,1
+R100367,Conference Room,Student Org,Thu,Morning,Academic,27,1.9,79,2,2,0,1,0,Cancelled,1
+R100368,Gymnasium,Faculty,Mon,Afternoon,Event,5,0.5,33,0,0,0,0,1,Completed,0
+R100369,Sports Field,Staff,Wed,Afternoon,Event,16,1.7,35,0,0,1,0,0,Completed,0
+R100370,Conference Room,Student Org,Fri,Afternoon,Sports,7,3.2,15,0,2,1,1,0,Completed,0
+R100371,Gymnasium,Faculty,Mon,Morning,Academic,4,2.4,12,0,1,0,0,0,No-show,1
+R100372,Gymnasium,External,Fri,Afternoon,Training,27,2.7,2,1,0,0,1,0,Completed,0
+R100373,Gymnasium,External,Mon,Afternoon,Event,18,1.9,21,0,1,0,1,0,Completed,0
+R100374,Classroom,External,Wed,Afternoon,Academic,13,3.7,10,0,1,1,1,0,Cancelled,1
+R100375,Classroom,Staff,Wed,Afternoon,Academic,5,2.9,44,1,2,0,0,0,Completed,0
+R100376,Sports Field,Student Org,Mon,Morning,Academic,27,3.2,16,0,0,0,1,0,Completed,0
+R100377,Auditorium,Student Org,Fri,Afternoon,Sports,5,2.7,26,2,0,0,1,0,Completed,0
+R100378,Auditorium,Faculty,Wed,Morning,Academic,4,3.1,26,0,0,0,1,0,Cancelled,1
+R100379,Conference Room,Faculty,Sat,Morning,Meeting,11,3.1,39,0,1,0,1,0,Completed,0
+R100380,Laboratory,Faculty,Tue,Morning,Event,17,1.4,24,1,0,1,1,0,Completed,0
+R100381,Sports Field,Faculty,Fri,Afternoon,Sports,8,2.9,8,1,1,0,0,1,No-show,1
+R100382,Conference Room,Faculty,Fri,Afternoon,Event,60,3.4,43,0,0,1,1,0,No-show,1
+R100383,Laboratory,Staff,Wed,Morning,Sports,12,3.9,72,1,0,0,0,0,Cancelled,1
+R100384,Auditorium,Student Org,Tue,Evening,Academic,7,3.0,44,1,1,0,0,1,Completed,0
+R100385,Sports Field,Student Org,Thu,Evening,Sports,7,1.3,22,2,0,0,0,1,Completed,0
+R100386,Conference Room,Student Org,Wed,Morning,Academic,33,1.5,36,1,0,0,0,0,No-show,1
+R100387,Sports Field,Student Org,Sat,Afternoon,Academic,10,2.0,2,0,0,0,1,0,Cancelled,1
+R100388,Classroom,Staff,Wed,Morning,Training,26,2.7,36,0,0,0,1,1,No-show,1
+R100389,Sports Field,Faculty,Tue,Evening,Academic,2,2.4,28,1,0,0,1,0,Completed,0
+R100390,Conference Room,Student Org,Mon,Morning,Academic,22,1.2,12,0,0,1,1,0,Completed,0
+R100391,Classroom,Staff,Thu,Morning,Event,6,1.1,17,0,0,0,1,0,Completed,0
+R100392,Laboratory,Faculty,Sat,Afternoon,Meeting,18,0.5,28,0,0,0,0,0,Completed,0
+R100393,Conference Room,Student Org,Mon,Morning,Academic,6,0.5,70,0,0,0,0,1,Completed,0
+R100394,Classroom,Student Org,Thu,Afternoon,Event,8,2.3,73,0,0,0,1,0,Completed,0
+R100395,Auditorium,Student Org,Fri,Afternoon,Sports,4,5.3,12,0,0,1,0,0,Completed,0
+R100396,Conference Room,Faculty,Mon,Morning,Sports,19,4.7,24,0,0,0,1,0,Completed,0
+R100397,Gymnasium,Student Org,Mon,Afternoon,Academic,21,1.3,25,1,0,0,1,0,Completed,0
+R100398,Auditorium,Student Org,Thu,Evening,Event,6,2.7,64,1,0,1,1,1,Completed,0
+R100399,Auditorium,Student Org,Thu,Afternoon,Sports,3,0.7,44,0,0,0,1,1,Completed,0
+R100400,Gymnasium,Faculty,Mon,Afternoon,Academic,26,0.9,43,0,0,1,1,0,Completed,0
+R100401,Sports Field,Student Org,Fri,Morning,Academic,6,1.1,56,1,0,0,1,1,Completed,0
+R100402,Conference Room,Staff,Wed,Morning,Academic,10,2.2,22,0,0,0,1,0,Completed,0
+R100403,Classroom,Student Org,Fri,Evening,Meeting,5,2.3,81,0,0,0,1,0,Completed,0
+R100404,Sports Field,Faculty,Fri,Afternoon,Academic,17,2.8,40,3,0,0,0,0,Completed,0
+R100405,Sports Field,Faculty,Fri,Afternoon,Event,18,3.3,14,1,0,0,1,0,Completed,0
+R100406,Gymnasium,Faculty,Wed,Evening,Training,29,2.1,33,0,0,0,0,0,No-show,1
+R100407,Conference Room,Student Org,Tue,Morning,Academic,22,2.5,77,2,0,0,0,1,Completed,0
+R100408,Classroom,Staff,Wed,Afternoon,Event,21,1.2,27,1,0,1,1,0,Completed,0
+R100409,Sports Field,Staff,Mon,Morning,Academic,10,0.9,68,0,1,0,1,0,Completed,0
+R100410,Conference Room,Student Org,Thu,Morning,Academic,9,0.7,21,0,1,0,0,1,Completed,0
+R100411,Conference Room,Student Org,Mon,Afternoon,Sports,17,3.3,17,0,1,0,1,1,Completed,0
+R100412,Classroom,External,Wed,Morning,Meeting,10,2.1,60,1,0,0,1,0,No-show,1
+R100413,Sports Field,Faculty,Mon,Evening,Training,23,0.5,14,0,0,1,0,0,Completed,0
+R100414,Classroom,Student Org,Tue,Morning,Meeting,5,2.4,65,5,0,0,0,1,Completed,0
+R100415,Classroom,Student Org,Tue,Evening,Academic,2,1.0,51,0,0,1,0,0,Completed,0
+R100416,Classroom,Faculty,Thu,Afternoon,Meeting,16,4.5,14,1,0,0,0,0,Cancelled,1
+R100417,Conference Room,Staff,Fri,Afternoon,Academic,7,1.8,38,0,1,1,1,0,Completed,0
+R100418,Classroom,Faculty,Mon,Evening,Sports,4,3.3,24,0,2,0,0,0,Cancelled,1
+R100419,Sports Field,External,Fri,Afternoon,Event,40,3.8,50,0,2,0,1,0,No-show,1
+R100420,Conference Room,Faculty,Fri,Morning,Meeting,11,1.4,97,0,0,0,0,1,Completed,0
+R100421,Classroom,Student Org,Tue,Morning,Meeting,3,2.6,29,2,0,0,1,0,Cancelled,1
+R100422,Classroom,Faculty,Thu,Morning,Event,6,3.2,56,0,0,0,1,1,Completed,0
+R100423,Classroom,Student Org,Wed,Evening,Sports,9,2.6,41,1,0,0,1,0,Completed,0
+R100424,Laboratory,Student Org,Mon,Afternoon,Academic,16,2.9,41,0,1,0,0,0,Completed,0
+R100425,Conference Room,Student Org,Wed,Morning,Academic,6,0.9,35,1,0,0,1,0,Completed,0
+R100426,Classroom,Student Org,Mon,Morning,Academic,10,3.2,14,1,0,0,0,0,Cancelled,1
+R100427,Conference Room,Staff,Fri,Afternoon,Meeting,13,1.9,50,0,0,0,1,0,Completed,0
+R100428,Classroom,Student Org,Fri,Afternoon,Meeting,15,2.9,31,1,0,1,1,1,Completed,0
+R100429,Conference Room,Faculty,Fri,Morning,Academic,10,3.6,13,0,0,0,1,0,No-show,1
+R100430,Sports Field,Faculty,Wed,Afternoon,Meeting,33,3.3,70,1,0,0,1,0,Cancelled,1
+R100431,Conference Room,Faculty,Wed,Afternoon,Meeting,18,2.9,43,0,0,1,0,0,Completed,0
+R100432,Conference Room,Staff,Sat,Afternoon,Academic,17,3.3,33,0,0,0,0,0,Completed,0
+R100433,Conference Room,Staff,Tue,Morning,Training,16,3.3,80,0,0,0,0,0,Completed,0
+R100434,Classroom,Staff,Mon,Afternoon,Event,23,4.3,2,0,0,0,1,0,Completed,0
+R100435,Classroom,Student Org,Wed,Morning,Meeting,13,2.5,78,1,2,1,1,0,Completed,0
+R100436,Classroom,Faculty,Tue,Morning,Meeting,5,2.7,14,0,0,0,0,1,Cancelled,1
+R100437,Laboratory,Faculty,Tue,Afternoon,Meeting,14,3.6,46,1,0,0,0,1,No-show,1
+R100438,Conference Room,Student Org,Mon,Afternoon,Sports,16,1.9,22,2,2,0,0,0,Cancelled,1
+R100439,Conference Room,Student Org,Wed,Morning,Event,25,0.9,12,1,0,1,1,0,Completed,0
+R100440,Sports Field,Student Org,Tue,Evening,Meeting,4,3.1,79,1,0,0,0,0,No-show,1
+R100441,Classroom,Faculty,Mon,Morning,Training,5,2.3,96,0,0,1,1,0,Completed,0
+R100442,Conference Room,Faculty,Mon,Afternoon,Sports,11,1.1,33,0,3,0,0,1,No-show,1
+R100443,Classroom,Student Org,Tue,Evening,Sports,17,3.1,50,1,0,0,0,0,No-show,1
+R100444,Gymnasium,Staff,Fri,Afternoon,Academic,4,4.2,42,0,1,0,0,1,Cancelled,1
+R100445,Conference Room,External,Tue,Evening,Academic,4,0.5,92,1,0,1,1,0,Completed,0
+R100446,Sports Field,Student Org,Thu,Afternoon,Event,20,3.7,2,1,0,0,0,1,Cancelled,1
+R100447,Laboratory,External,Thu,Afternoon,Meeting,4,0.5,51,1,0,0,1,1,Completed,0
+R100448,Classroom,Student Org,Tue,Afternoon,Event,5,2.0,18,2,0,0,1,1,Completed,0
+R100449,Laboratory,External,Fri,Afternoon,Sports,20,4.7,2,0,1,0,0,1,Cancelled,1
+R100450,Classroom,External,Thu,Morning,Academic,17,2.1,29,0,0,0,1,0,Completed,0
+R100451,Sports Field,Student Org,Wed,Afternoon,Academic,7,2.6,95,0,0,0,1,0,Completed,0
+R100452,Conference Room,Staff,Mon,Morning,Meeting,15,3.4,20,0,0,0,0,0,Completed,0
+R100453,Classroom,External,Mon,Evening,Academic,13,0.5,64,1,0,0,0,1,No-show,1
+R100454,Classroom,External,Sat,Morning,Event,10,2.6,76,1,0,0,1,1,Completed,0
+R100455,Classroom,External,Fri,Morning,Event,8,2.6,40,1,1,0,1,0,Completed,0
+R100456,Sports Field,Faculty,Sat,Evening,Meeting,15,4.7,44,1,0,1,0,1,Completed,0
+R100457,Auditorium,Student Org,Fri,Morning,Event,4,1.0,2,1,0,0,1,0,Completed,0
+R100458,Conference Room,Staff,Mon,Morning,Meeting,15,2.0,19,1,0,0,1,0,Completed,0
+R100459,Conference Room,Faculty,Fri,Afternoon,Event,12,1.4,67,0,0,0,1,0,Completed,0
+R100460,Laboratory,Faculty,Wed,Morning,Academic,13,1.3,42,0,0,0,0,0,Cancelled,1
+R100461,Classroom,Faculty,Fri,Morning,Event,5,3.9,51,0,0,0,1,0,Completed,0
+R100462,Sports Field,Faculty,Mon,Afternoon,Event,26,2.5,44,0,0,0,1,1,Completed,0
+R100463,Gymnasium,Student Org,Tue,Morning,Academic,7,1.8,106,0,0,1,0,0,Cancelled,1
+R100464,Laboratory,Staff,Thu,Morning,Event,7,1.9,27,1,0,0,0,0,Cancelled,1
+R100465,Conference Room,Student Org,Fri,Morning,Sports,10,1.8,88,2,0,0,0,0,Cancelled,1
+R100466,Conference Room,Staff,Thu,Morning,Academic,17,1.9,44,1,0,0,0,0,Completed,0
+R100467,Sports Field,Staff,Tue,Morning,Event,13,1.0,91,0,0,0,0,1,Completed,0
+R100468,Classroom,Faculty,Tue,Morning,Training,3,2.2,3,1,0,0,1,1,Completed,0
+R100469,Laboratory,Faculty,Sat,Afternoon,Sports,11,2.1,46,0,0,1,1,0,Completed,0
+R100470,Auditorium,Student Org,Wed,Afternoon,Meeting,11,1.6,28,0,0,0,0,1,Completed,0
+R100471,Laboratory,External,Wed,Morning,Event,26,2.7,44,0,2,0,0,1,Cancelled,1
+R100472,Classroom,Staff,Wed,Morning,Training,9,2.8,77,0,0,0,0,1,Completed,0
+R100473,Classroom,Student Org,Wed,Evening,Event,16,1.8,51,2,0,0,1,0,Completed,0
+R100474,Gymnasium,Student Org,Wed,Afternoon,Academic,52,2.3,77,0,2,0,0,0,No-show,1
+R100475,Gymnasium,Student Org,Wed,Afternoon,Academic,23,5.1,20,2,0,0,0,1,Completed,0
+R100476,Auditorium,Faculty,Fri,Afternoon,Sports,5,5.0,15,0,1,1,1,0,Completed,0
+R100477,Laboratory,External,Fri,Morning,Meeting,18,1.2,40,0,1,0,0,0,Cancelled,1
+R100478,Conference Room,Staff,Sat,Evening,Academic,15,1.4,39,1,1,0,0,0,Cancelled,1
+R100479,Auditorium,Student Org,Wed,Evening,Meeting,8,1.2,34,0,0,0,0,0,Completed,0
+R100480,Auditorium,Staff,Wed,Evening,Sports,18,3.8,11,0,1,0,0,0,Completed,0
+R100481,Classroom,Student Org,Thu,Morning,Meeting,5,2.0,76,0,1,1,1,1,Completed,0
+R100482,Laboratory,Staff,Fri,Morning,Sports,7,2.8,29,0,0,0,0,0,Completed,0
+R100483,Gymnasium,Student Org,Wed,Morning,Event,10,4.9,83,1,0,1,1,0,Completed,0
+R100484,Classroom,Faculty,Thu,Morning,Training,8,2.5,40,1,0,1,0,1,Completed,0
+R100485,Auditorium,External,Thu,Morning,Sports,17,3.3,59,0,2,0,0,0,Completed,0
+R100486,Laboratory,Student Org,Thu,Afternoon,Academic,11,3.1,57,3,0,0,0,0,Cancelled,1
+R100487,Classroom,Faculty,Thu,Morning,Event,7,1.8,15,0,0,0,0,1,Completed,0
+R100488,Laboratory,External,Tue,Evening,Academic,23,3.8,51,1,2,0,0,1,Cancelled,1
+R100489,Laboratory,Student Org,Wed,Morning,Training,17,1.5,98,1,0,0,1,1,Completed,0
+R100490,Conference Room,Student Org,Wed,Morning,Academic,3,4.1,48,0,0,0,1,0,Completed,0
+R100491,Conference Room,Faculty,Mon,Evening,Event,3,1.8,67,1,0,1,1,0,Completed,0
+R100492,Conference Room,Student Org,Fri,Afternoon,Sports,8,1.9,61,2,1,0,0,1,Completed,0
+R100493,Gymnasium,Student Org,Thu,Morning,Academic,4,1.2,49,2,0,1,0,1,Completed,0
+R100494,Conference Room,Faculty,Mon,Afternoon,Sports,21,1.4,46,0,0,1,0,0,No-show,1
+R100495,Laboratory,Staff,Fri,Morning,Academic,7,2.0,56,1,0,1,1,1,Completed,0
+R100496,Auditorium,Student Org,Thu,Morning,Meeting,16,0.5,63,3,1,0,0,0,Cancelled,1
+R100497,Conference Room,Student Org,Thu,Afternoon,Meeting,18,2.2,2,2,0,0,1,0,Completed,0
+R100498,Gymnasium,Staff,Tue,Morning,Meeting,2,1.9,47,0,0,0,0,0,Completed,0
+R100499,Laboratory,Faculty,Fri,Afternoon,Event,7,3.4,34,3,0,0,0,0,Completed,0
+R100500,Conference Room,Staff,Wed,Morning,Training,9,3.0,28,0,0,0,1,1,Cancelled,1
+R100501,Sports Field,Faculty,Wed,Afternoon,Meeting,13,1.7,79,0,1,0,0,0,Completed,0
+R100502,Sports Field,External,Mon,Afternoon,Event,20,1.9,18,0,0,0,1,1,Completed,0
+R100503,Laboratory,Faculty,Thu,Morning,Sports,42,2.2,2,0,0,0,1,0,Cancelled,1
+R100504,Laboratory,Student Org,Thu,Morning,Sports,31,4.3,64,0,1,1,0,1,Cancelled,1
+R100505,Conference Room,Staff,Wed,Afternoon,Academic,11,1.5,2,0,0,0,0,0,Completed,0
+R100506,Gymnasium,Faculty,Wed,Afternoon,Training,10,1.6,2,0,1,1,1,1,Completed,0
+R100507,Conference Room,Student Org,Fri,Afternoon,Academic,29,1.1,67,0,1,0,1,0,No-show,1
+R100508,Laboratory,Student Org,Thu,Afternoon,Event,11,0.7,45,0,1,0,1,1,Completed,0
+R100509,Classroom,Faculty,Tue,Afternoon,Event,7,2.9,54,0,0,0,1,0,Completed,0
+R100510,Classroom,Student Org,Sat,Morning,Sports,21,2.7,27,5,1,0,1,0,Completed,0
+R100511,Conference Room,Student Org,Thu,Afternoon,Academic,14,4.0,2,0,0,0,1,1,Completed,0
+R100512,Classroom,Student Org,Sat,Morning,Academic,3,3.7,4,0,0,1,0,0,Completed,0
+R100513,Gymnasium,Faculty,Sat,Afternoon,Sports,9,5.4,32,0,0,1,1,1,Completed,0
+R100514,Gymnasium,Faculty,Fri,Morning,Academic,4,2.4,2,0,0,0,1,0,Completed,0
+R100515,Classroom,Faculty,Thu,Morning,Meeting,1,2.2,49,0,1,0,1,1,Completed,0
+R100516,Gymnasium,Student Org,Thu,Afternoon,Event,33,0.9,26,2,0,0,1,1,Completed,0
+R100517,Conference Room,Student Org,Mon,Afternoon,Event,12,3.3,46,5,1,0,0,1,Cancelled,1
+R100518,Classroom,Faculty,Wed,Afternoon,Academic,9,2.6,45,1,0,0,1,0,Completed,0
+R100519,Conference Room,Student Org,Thu,Afternoon,Meeting,7,3.3,52,1,0,0,1,0,Completed,0
+R100520,Sports Field,Faculty,Wed,Evening,Training,11,1.1,55,0,0,0,0,1,Completed,0
+R100521,Auditorium,Student Org,Fri,Evening,Meeting,7,2.9,30,0,0,0,0,0,Completed,0
+R100522,Classroom,Student Org,Mon,Evening,Academic,5,2.7,46,0,0,0,1,1,Completed,0
+R100523,Laboratory,Student Org,Tue,Afternoon,Academic,8,2.7,47,0,0,0,1,0,Completed,0
+R100524,Classroom,Faculty,Wed,Afternoon,Meeting,27,1.7,2,0,0,0,0,0,Cancelled,1
+R100525,Gymnasium,Student Org,Wed,Afternoon,Training,21,3.9,59,1,0,0,0,1,Cancelled,1
+R100526,Sports Field,Staff,Mon,Afternoon,Meeting,8,5.0,44,0,0,0,0,0,Cancelled,1
+R100527,Sports Field,Student Org,Mon,Morning,Academic,36,1.2,57,1,0,0,1,0,No-show,1
+R100528,Conference Room,Faculty,Fri,Afternoon,Meeting,10,3.4,2,1,0,1,0,0,Completed,0
+R100529,Gymnasium,Faculty,Wed,Morning,Academic,6,0.5,31,0,0,0,1,1,Completed,0
+R100530,Conference Room,Student Org,Mon,Morning,Academic,14,3.3,7,4,1,1,1,0,Cancelled,1
+R100531,Conference Room,Faculty,Mon,Evening,Training,30,0.5,62,0,1,0,0,1,Completed,0
+R100532,Auditorium,Student Org,Wed,Morning,Event,26,1.9,2,1,0,0,0,0,Completed,0
+R100533,Conference Room,Faculty,Mon,Afternoon,Academic,6,0.9,12,0,0,0,1,0,Completed,0
+R100534,Classroom,Student Org,Thu,Afternoon,Meeting,4,2.2,56,2,0,0,1,0,Completed,0
+R100535,Classroom,Staff,Fri,Morning,Academic,8,3.5,21,0,0,0,0,0,Completed,0
+R100536,Laboratory,External,Tue,Evening,Academic,16,0.5,12,0,4,0,1,0,No-show,1
+R100537,Classroom,Student Org,Wed,Morning,Event,19,2.1,67,1,0,0,1,0,Completed,0
+R100538,Classroom,Faculty,Mon,Evening,Meeting,24,1.9,68,0,0,0,1,0,No-show,1
+R100539,Conference Room,Staff,Tue,Afternoon,Event,12,4.4,62,0,0,0,1,1,Completed,0
+R100540,Sports Field,Student Org,Fri,Morning,Sports,13,3.0,65,0,1,0,0,0,Completed,0
+R100541,Laboratory,Staff,Wed,Morning,Academic,12,1.1,33,0,0,0,1,0,Completed,0
+R100542,Conference Room,Faculty,Fri,Morning,Training,22,1.9,34,1,0,1,1,0,Completed,0
+R100543,Sports Field,External,Tue,Morning,Meeting,19,4.4,21,0,1,0,0,0,Cancelled,1
+R100544,Classroom,External,Tue,Morning,Academic,6,3.4,45,0,1,0,1,1,Completed,0
+R100545,Auditorium,Student Org,Wed,Evening,Sports,17,1.4,24,1,0,0,0,1,Completed,0
+R100546,Auditorium,Faculty,Wed,Morning,Academic,21,2.2,27,1,0,0,1,1,Completed,0
+R100547,Classroom,Faculty,Sat,Evening,Event,22,2.2,58,0,1,0,0,0,Cancelled,1
+R100548,Conference Room,Student Org,Mon,Morning,Event,14,1.9,76,3,0,0,0,0,No-show,1
+R100549,Auditorium,Student Org,Fri,Evening,Academic,13,0.5,52,1,0,1,0,1,Completed,0
+R100550,Auditorium,External,Fri,Morning,Sports,11,1.7,94,0,0,1,1,1,Completed,0
+R100551,Classroom,Student Org,Wed,Afternoon,Academic,12,4.2,19,0,0,0,0,0,Completed,0
+R100552,Classroom,Faculty,Tue,Afternoon,Sports,32,2.0,2,0,0,1,0,0,Cancelled,1
+R100553,Sports Field,Staff,Wed,Morning,Academic,12,2.4,61,0,0,0,1,1,Completed,0
+R100554,Classroom,Student Org,Tue,Evening,Academic,6,2.7,17,3,0,1,1,1,Completed,0
+R100555,Classroom,Faculty,Fri,Morning,Meeting,14,5.2,32,3,1,0,1,0,Cancelled,1
+R100556,Gymnasium,External,Wed,Afternoon,Sports,19,2.5,2,0,3,1,1,0,Completed,0
+R100557,Laboratory,Faculty,Fri,Afternoon,Academic,21,3.8,13,2,0,0,1,1,No-show,1
+R100558,Laboratory,Student Org,Thu,Afternoon,Sports,5,1.8,2,0,0,0,0,1,Completed,0
+R100559,Laboratory,Student Org,Wed,Morning,Academic,28,2.2,27,0,1,1,0,0,Completed,0
+R100560,Classroom,External,Thu,Morning,Meeting,18,2.5,28,0,0,0,1,0,Completed,0
+R100561,Classroom,Student Org,Wed,Morning,Meeting,27,1.6,43,1,0,0,0,0,Completed,0
+R100562,Conference Room,Faculty,Fri,Morning,Academic,3,2.3,77,0,0,0,0,1,Completed,0
+R100563,Conference Room,Student Org,Mon,Morning,Training,22,3.6,60,1,0,0,1,1,Completed,0
+R100564,Conference Room,Faculty,Sat,Evening,Meeting,5,1.5,2,0,1,0,0,0,Completed,0
+R100565,Conference Room,External,Fri,Afternoon,Event,9,2.5,58,0,1,0,0,0,Cancelled,1
+R100566,Conference Room,Faculty,Fri,Afternoon,Event,18,3.4,43,0,1,0,1,1,Completed,0
+R100567,Classroom,External,Wed,Morning,Meeting,4,1.5,37,3,0,1,1,0,Completed,0
+R100568,Gymnasium,Student Org,Fri,Morning,Event,7,3.8,39,2,3,0,1,0,Completed,0
+R100569,Laboratory,Faculty,Tue,Afternoon,Sports,3,2.6,46,0,0,1,0,0,Completed,0
+R100570,Gymnasium,Staff,Thu,Morning,Event,18,2.3,19,0,0,0,1,0,Completed,0
+R100571,Conference Room,Faculty,Mon,Morning,Meeting,6,0.5,35,0,0,0,1,1,Completed,0
+R100572,Laboratory,Student Org,Tue,Afternoon,Event,11,2.1,76,2,1,0,1,0,Completed,0
+R100573,Conference Room,Staff,Wed,Afternoon,Event,15,2.9,19,0,2,1,1,1,Completed,0
+R100574,Sports Field,Student Org,Tue,Evening,Meeting,14,4.6,9,2,0,0,1,0,Completed,0
+R100575,Laboratory,Faculty,Tue,Morning,Event,13,3.2,38,1,0,0,0,0,Completed,0
+R100576,Sports Field,External,Fri,Afternoon,Meeting,13,3.9,6,1,1,1,1,1,Completed,0
+R100577,Laboratory,Student Org,Tue,Morning,Sports,4,1.0,2,1,0,0,0,0,Completed,0
+R100578,Sports Field,Student Org,Thu,Morning,Training,9,2.3,30,1,1,0,1,1,Completed,0
+R100579,Gymnasium,Student Org,Mon,Afternoon,Training,13,4.0,83,3,0,0,1,0,Cancelled,1
+R100580,Laboratory,Student Org,Thu,Morning,Sports,12,1.4,39,0,1,0,1,1,Completed,0
+R100581,Laboratory,Student Org,Fri,Afternoon,Event,10,3.7,45,1,0,0,1,0,Cancelled,1
+R100582,Classroom,Faculty,Wed,Afternoon,Event,7,3.4,2,0,0,0,0,0,Completed,0
+R100583,Auditorium,Student Org,Thu,Morning,Academic,14,2.8,53,0,0,1,0,0,Completed,0
+R100584,Sports Field,Faculty,Fri,Evening,Meeting,15,2.1,43,1,0,0,1,0,Completed,0
+R100585,Conference Room,Student Org,Fri,Afternoon,Academic,8,1.3,20,0,0,0,0,0,Completed,0
+R100586,Classroom,Student Org,Tue,Afternoon,Academic,21,4.6,45,0,1,0,0,0,No-show,1
+R100587,Gymnasium,Student Org,Wed,Afternoon,Training,28,3.3,45,1,1,0,1,0,Completed,0
+R100588,Classroom,Staff,Thu,Evening,Sports,11,2.9,8,1,1,0,0,0,Cancelled,1
+R100589,Classroom,Faculty,Tue,Morning,Meeting,6,2.0,50,0,0,0,0,1,Completed,0
+R100590,Sports Field,Student Org,Fri,Afternoon,Academic,4,2.5,76,1,1,0,0,0,Completed,0
+R100591,Auditorium,Staff,Tue,Afternoon,Event,9,2.7,33,1,2,1,1,0,Completed,0
+R100592,Gymnasium,Faculty,Fri,Morning,Meeting,11,3.0,14,0,0,0,1,1,Completed,0
+R100593,Laboratory,Student Org,Mon,Morning,Sports,4,3.4,35,1,0,1,1,1,Completed,0
+R100594,Classroom,External,Mon,Evening,Training,9,1.6,66,0,1,0,1,0,Completed,0
+R100595,Gymnasium,Student Org,Sat,Afternoon,Meeting,21,0.7,3,2,0,0,1,0,Cancelled,1
+R100596,Conference Room,Student Org,Fri,Afternoon,Academic,2,2.6,57,2,0,0,0,0,Cancelled,1
+R100597,Conference Room,Faculty,Fri,Afternoon,Academic,12,0.5,20,0,0,0,1,0,Completed,0
+R100598,Sports Field,Student Org,Sat,Evening,Academic,7,2.1,47,4,0,0,1,1,Cancelled,1
+R100599,Conference Room,Student Org,Wed,Evening,Meeting,11,1.9,23,1,0,0,1,0,Completed,0
+R100600,Laboratory,Staff,Tue,Afternoon,Academic,29,3.1,23,0,0,0,1,1,Completed,0
+R100601,Conference Room,Student Org,Mon,Morning,Academic,11,4.9,86,3,0,0,1,1,Completed,0
+R100602,Sports Field,Staff,Wed,Morning,Academic,10,0.5,2,1,0,0,0,1,Completed,0
+R100603,Conference Room,External,Tue,Afternoon,Academic,17,5.2,55,1,0,0,0,0,Completed,0
+R100604,Sports Field,Faculty,Sat,Evening,Event,14,2.2,92,0,0,0,1,1,Completed,0
+R100605,Conference Room,Staff,Mon,Afternoon,Academic,12,2.9,61,1,1,0,0,1,No-show,1
+R100606,Sports Field,Staff,Mon,Morning,Sports,14,0.8,2,0,0,0,0,1,Completed,0
+R100607,Classroom,External,Tue,Morning,Academic,24,3.7,2,1,1,1,0,0,Completed,0
+R100608,Conference Room,Student Org,Mon,Afternoon,Academic,20,2.5,17,1,0,1,0,0,Cancelled,1
+R100609,Auditorium,Student Org,Tue,Evening,Academic,9,2.4,45,0,0,1,1,0,Completed,0
+R100610,Laboratory,Faculty,Thu,Morning,Event,28,0.5,47,0,1,0,1,0,Completed,0
+R100611,Conference Room,Faculty,Tue,Afternoon,Academic,8,2.6,2,0,0,0,0,1,No-show,1
+R100612,Sports Field,Student Org,Thu,Afternoon,Meeting,12,3.5,14,0,1,0,1,1,Completed,0
+R100613,Sports Field,Faculty,Fri,Evening,Academic,13,2.2,16,0,0,0,1,0,Completed,0
+R100614,Gymnasium,Student Org,Thu,Morning,Training,9,3.9,35,1,0,0,1,0,Cancelled,1
+R100615,Conference Room,External,Thu,Evening,Academic,26,3.9,100,0,0,0,1,0,Cancelled,1
+R100616,Conference Room,Student Org,Tue,Afternoon,Meeting,9,1.7,12,1,0,0,1,1,No-show,1
+R100617,Gymnasium,Student Org,Mon,Afternoon,Sports,10,4.4,11,1,1,0,1,1,No-show,1
+R100618,Classroom,Student Org,Tue,Morning,Academic,22,2.6,6,2,1,1,0,0,No-show,1
+R100619,Classroom,Student Org,Sat,Afternoon,Academic,8,2.6,59,0,1,0,1,0,Completed,0
+R100620,Conference Room,Student Org,Thu,Afternoon,Sports,4,2.6,39,1,0,1,0,1,No-show,1
+R100621,Laboratory,Student Org,Tue,Morning,Academic,12,2.6,13,2,0,0,1,1,Completed,0
+R100622,Sports Field,Student Org,Wed,Afternoon,Academic,5,0.5,29,2,0,0,1,1,Completed,0
+R100623,Auditorium,Student Org,Fri,Afternoon,Meeting,5,2.3,16,2,0,1,0,0,Completed,0
+R100624,Sports Field,Student Org,Thu,Afternoon,Academic,2,0.9,49,0,0,1,1,0,Completed,0
+R100625,Auditorium,Student Org,Wed,Morning,Training,2,4.5,121,0,1,0,1,1,Completed,0
+R100626,Conference Room,Student Org,Fri,Afternoon,Event,2,4.4,57,2,0,0,0,0,Cancelled,1
+R100627,Classroom,Student Org,Thu,Morning,Event,31,3.5,37,2,1,0,1,1,No-show,1
+R100628,Laboratory,Student Org,Thu,Evening,Academic,2,2.2,20,2,0,0,1,1,Completed,0
+R100629,Conference Room,Student Org,Mon,Evening,Event,5,1.3,2,3,1,0,0,0,No-show,1
+R100630,Sports Field,Student Org,Mon,Morning,Event,10,1.7,62,0,0,0,1,0,No-show,1
+R100631,Conference Room,Staff,Sat,Morning,Academic,17,4.8,60,0,0,0,0,1,Completed,0
+R100632,Classroom,External,Wed,Morning,Sports,18,1.7,26,2,1,0,1,1,Cancelled,1
+R100633,Auditorium,External,Wed,Afternoon,Event,6,0.5,76,0,2,0,1,0,Completed,0
+R100634,Classroom,Faculty,Wed,Evening,Sports,12,3.7,41,0,0,0,1,1,Completed,0
+R100635,Classroom,Faculty,Mon,Afternoon,Academic,10,4.3,63,2,0,0,0,0,Completed,0
+R100636,Conference Room,Student Org,Fri,Morning,Academic,11,4.5,49,0,0,0,1,1,Completed,0
+R100637,Conference Room,Staff,Tue,Morning,Event,12,3.7,35,1,1,0,0,1,No-show,1
+R100638,Conference Room,Staff,Fri,Morning,Sports,15,3.9,11,0,0,0,0,0,No-show,1
+R100639,Sports Field,Staff,Wed,Evening,Meeting,7,2.6,36,0,0,0,1,1,Completed,0
+R100640,Conference Room,Staff,Tue,Afternoon,Academic,24,0.5,65,0,1,0,1,1,Completed,0
+R100641,Conference Room,Faculty,Mon,Afternoon,Sports,9,2.5,25,0,1,0,0,1,Completed,0
+R100642,Classroom,Staff,Fri,Morning,Academic,40,3.2,53,0,0,0,0,0,Completed,0
+R100643,Classroom,Staff,Mon,Evening,Meeting,8,2.3,8,0,0,0,1,1,Completed,0
+R100644,Conference Room,Student Org,Mon,Morning,Event,12,2.3,63,1,0,0,0,1,Completed,0
+R100645,Sports Field,External,Thu,Evening,Academic,10,1.3,49,0,1,0,1,0,Completed,0
+R100646,Classroom,Student Org,Tue,Evening,Academic,12,1.3,4,0,0,0,0,0,Completed,0
+R100647,Laboratory,External,Tue,Afternoon,Academic,22,4.7,33,0,0,0,0,1,Cancelled,1
+R100648,Conference Room,Staff,Tue,Evening,Training,10,4.7,68,0,2,0,1,0,Completed,0
+R100649,Classroom,Student Org,Fri,Morning,Meeting,4,2.5,2,1,0,0,1,0,Completed,0
+R100650,Auditorium,Faculty,Tue,Afternoon,Event,7,2.8,8,0,1,0,1,1,Completed,0
+R100651,Sports Field,Student Org,Tue,Morning,Training,10,1.3,38,1,1,0,1,0,Completed,0
+R100652,Conference Room,Staff,Tue,Afternoon,Event,13,3.3,104,1,1,0,0,1,Completed,0
+R100653,Classroom,Staff,Tue,Morning,Meeting,6,4.6,20,1,0,0,1,0,Completed,0
+R100654,Sports Field,Faculty,Tue,Morning,Meeting,7,0.7,55,0,0,0,0,0,Completed,0
+R100655,Gymnasium,Staff,Mon,Morning,Meeting,13,3.1,48,0,0,1,0,1,Cancelled,1
+R100656,Sports Field,Student Org,Mon,Morning,Event,13,3.1,22,2,0,0,0,1,Cancelled,1
+R100657,Gymnasium,Student Org,Wed,Afternoon,Training,20,3.1,45,1,1,0,1,0,Cancelled,1
+R100658,Laboratory,Faculty,Fri,Afternoon,Sports,7,4.5,27,1,0,1,0,1,Completed,0
+R100659,Auditorium,Student Org,Mon,Morning,Meeting,16,4.9,29,2,0,1,1,1,Completed,0
+R100660,Gymnasium,Faculty,Tue,Evening,Meeting,10,2.2,2,2,0,0,1,1,Completed,0
+R100661,Sports Field,Student Org,Fri,Evening,Sports,8,3.3,39,1,0,0,1,0,Completed,0
+R100662,Classroom,Student Org,Fri,Morning,Academic,10,2.6,67,0,0,0,0,0,Completed,0
+R100663,Classroom,Faculty,Thu,Afternoon,Sports,11,1.7,42,1,1,0,1,1,No-show,1
+R100664,Gymnasium,Staff,Tue,Afternoon,Academic,4,2.8,73,0,0,1,1,1,Completed,0
+R100665,Conference Room,Student Org,Wed,Afternoon,Event,4,3.3,57,1,1,0,1,0,Completed,0
+R100666,Conference Room,Staff,Tue,Morning,Sports,17,2.8,38,0,0,1,0,0,No-show,1
+R100667,Sports Field,Faculty,Mon,Afternoon,Meeting,8,1.4,21,0,2,0,1,0,No-show,1
+R100668,Gymnasium,Student Org,Tue,Morning,Academic,13,1.9,25,2,0,0,0,0,Completed,0
+R100669,Auditorium,Faculty,Wed,Morning,Sports,17,2.0,2,0,0,0,0,0,Completed,0
+R100670,Classroom,Faculty,Tue,Afternoon,Meeting,10,1.5,32,0,0,0,1,0,Completed,0
+R100671,Laboratory,Student Org,Thu,Afternoon,Meeting,16,2.9,44,1,0,0,1,0,Completed,0
+R100672,Sports Field,Faculty,Tue,Evening,Meeting,11,3.0,91,1,0,0,1,0,Completed,0
+R100673,Conference Room,Student Org,Tue,Morning,Meeting,12,3.7,56,0,1,1,1,0,Cancelled,1
+R100674,Laboratory,Student Org,Fri,Morning,Event,23,1.5,14,1,0,0,0,1,Completed,0
+R100675,Auditorium,Faculty,Fri,Morning,Academic,10,1.8,2,1,1,0,1,0,Completed,0
+R100676,Sports Field,Faculty,Tue,Morning,Meeting,17,4.4,34,0,0,0,0,0,Completed,0
+R100677,Laboratory,Staff,Wed,Morning,Sports,3,2.3,64,0,0,0,0,0,Completed,0
+R100678,Classroom,Student Org,Tue,Afternoon,Academic,13,2.5,33,1,2,0,0,0,Cancelled,1
+R100679,Gymnasium,External,Mon,Afternoon,Meeting,27,2.3,56,1,3,0,1,0,No-show,1
+R100680,Classroom,Staff,Thu,Afternoon,Event,42,3.9,35,1,0,0,0,1,No-show,1
+R100681,Classroom,External,Mon,Morning,Sports,4,3.9,62,0,1,1,0,0,Cancelled,1
+R100682,Classroom,Staff,Wed,Morning,Event,8,3.8,2,0,0,0,1,0,Completed,0
+R100683,Auditorium,Student Org,Wed,Afternoon,Sports,5,2.5,88,2,0,1,0,1,Completed,0
+R100684,Conference Room,Faculty,Mon,Morning,Academic,10,1.5,7,1,0,0,1,1,Completed,0
+R100685,Gymnasium,Student Org,Mon,Evening,Meeting,19,4.8,64,1,0,0,0,0,Completed,0
+R100686,Auditorium,Staff,Tue,Morning,Training,24,3.5,32,0,0,0,0,0,Cancelled,1
+R100687,Sports Field,Faculty,Sat,Afternoon,Sports,24,2.0,37,0,1,1,0,0,Completed,0
+R100688,Conference Room,Student Org,Thu,Evening,Event,3,4.2,33,1,1,0,0,0,Completed,0
+R100689,Laboratory,External,Tue,Afternoon,Meeting,11,1.9,48,0,0,0,0,0,Completed,0
+R100690,Gymnasium,Student Org,Mon,Afternoon,Meeting,7,4.2,54,1,2,0,1,1,Completed,0
+R100691,Sports Field,Faculty,Thu,Afternoon,Academic,10,4.3,72,0,0,1,1,0,Completed,0
+R100692,Classroom,Staff,Mon,Morning,Sports,8,1.4,82,0,0,0,0,0,Completed,0
+R100693,Gymnasium,Student Org,Wed,Afternoon,Sports,3,3.2,50,0,1,0,0,1,Completed,0
+R100694,Sports Field,Faculty,Thu,Evening,Meeting,24,3.4,91,0,1,0,0,0,Cancelled,1
+R100695,Laboratory,Staff,Wed,Evening,Academic,6,5.6,43,0,0,0,1,0,Completed,0
+R100696,Conference Room,Student Org,Tue,Afternoon,Meeting,7,1.6,72,0,0,0,1,1,Completed,0
+R100697,Laboratory,Faculty,Mon,Morning,Academic,27,4.2,53,0,0,0,0,0,Completed,0
+R100698,Conference Room,Student Org,Mon,Afternoon,Event,3,2.5,24,2,1,1,0,0,No-show,1
+R100699,Gymnasium,Faculty,Wed,Afternoon,Event,15,1.0,45,0,1,0,1,0,Completed,0
+R100700,Classroom,Student Org,Fri,Morning,Academic,21,2.4,55,2,0,1,1,0,Cancelled,1
+R100701,Gymnasium,External,Tue,Morning,Event,26,2.5,39,0,2,0,0,0,Completed,0
+R100702,Classroom,Staff,Wed,Morning,Training,14,1.2,52,0,0,0,0,0,Completed,0
+R100703,Sports Field,Student Org,Thu,Afternoon,Academic,18,2.9,66,1,0,0,1,0,Completed,0
+R100704,Gymnasium,Student Org,Mon,Morning,Meeting,21,3.6,39,1,1,0,1,0,Completed,0
+R100705,Laboratory,Faculty,Mon,Morning,Meeting,10,2.8,2,0,0,0,1,0,Completed,0
+R100706,Conference Room,Staff,Tue,Morning,Academic,5,1.8,90,0,0,1,1,1,Completed,0
+R100707,Conference Room,Faculty,Thu,Evening,Meeting,28,2.3,31,0,0,0,1,1,Completed,0
+R100708,Auditorium,Student Org,Wed,Morning,Event,16,2.5,15,1,2,0,1,0,Completed,0
+R100709,Laboratory,Student Org,Thu,Morning,Academic,11,2.8,6,1,0,0,0,0,Completed,0
+R100710,Sports Field,External,Fri,Afternoon,Academic,4,3.8,30,0,0,0,1,1,Completed,0
+R100711,Conference Room,Faculty,Thu,Morning,Sports,1,2.8,23,2,1,1,0,0,Completed,0
+R100712,Conference Room,Staff,Sat,Evening,Meeting,14,0.8,18,0,0,0,1,0,No-show,1
+R100713,Sports Field,Faculty,Thu,Evening,Event,1,1.8,20,1,0,1,1,1,Completed,0
+R100714,Conference Room,External,Fri,Afternoon,Event,11,2.7,56,0,2,0,1,0,Completed,0
+R100715,Classroom,Student Org,Fri,Afternoon,Sports,6,3.8,101,0,2,0,1,0,Completed,0
+R100716,Laboratory,Student Org,Thu,Morning,Event,8,4.1,65,1,1,0,0,0,Completed,0
+R100717,Classroom,External,Fri,Morning,Sports,24,4.6,74,1,0,0,0,0,Cancelled,1
+R100718,Conference Room,External,Sat,Morning,Event,6,2.7,29,0,0,0,0,0,Completed,0
+R100719,Sports Field,Student Org,Wed,Morning,Meeting,12,3.4,43,2,0,0,0,0,Completed,0
+R100720,Laboratory,Student Org,Thu,Morning,Meeting,6,0.8,53,2,0,0,0,1,No-show,1
+R100721,Auditorium,Faculty,Wed,Afternoon,Meeting,14,3.0,20,1,0,0,0,0,Completed,0
+R100722,Classroom,Faculty,Fri,Morning,Meeting,12,1.2,27,0,0,0,1,1,Completed,0
+R100723,Sports Field,Student Org,Wed,Morning,Academic,11,2.4,66,1,0,0,0,0,Cancelled,1
+R100724,Classroom,Staff,Fri,Afternoon,Meeting,21,6.1,73,1,0,0,1,0,Completed,0
+R100725,Classroom,Student Org,Fri,Afternoon,Meeting,3,2.9,42,0,0,0,1,0,Completed,0
+R100726,Classroom,Staff,Sat,Morning,Academic,2,1.5,4,0,0,1,0,0,Completed,0
+R100727,Classroom,Student Org,Tue,Morning,Academic,4,3.0,31,2,0,0,0,0,Completed,0
+R100728,Auditorium,Student Org,Thu,Morning,Sports,12,1.9,2,0,0,0,1,0,Completed,0
+R100729,Laboratory,Faculty,Thu,Morning,Event,15,1.3,42,0,0,0,0,0,Completed,0
+R100730,Gymnasium,Student Org,Sat,Evening,Sports,0,5.0,48,0,0,0,1,0,Completed,0
+R100731,Classroom,Faculty,Fri,Evening,Meeting,15,3.8,32,0,0,0,0,0,Completed,0
+R100732,Classroom,Student Org,Wed,Afternoon,Sports,9,2.9,47,1,1,0,0,0,Completed,0
+R100733,Auditorium,External,Wed,Afternoon,Sports,29,2.0,53,0,0,0,1,0,No-show,1
+R100734,Classroom,Staff,Mon,Afternoon,Academic,14,2.1,48,0,0,0,0,0,No-show,1
+R100735,Conference Room,Staff,Sat,Afternoon,Training,27,4.4,4,0,0,0,0,1,Completed,0
+R100736,Classroom,Student Org,Tue,Morning,Academic,24,2.9,32,1,1,0,0,1,Cancelled,1
+R100737,Gymnasium,Student Org,Thu,Morning,Event,9,0.5,52,1,0,0,0,0,Completed,0
+R100738,Auditorium,Student Org,Fri,Afternoon,Sports,19,5.4,87,0,0,1,0,0,Completed,0
+R100739,Auditorium,Faculty,Wed,Afternoon,Meeting,9,2.7,32,1,0,0,1,0,Completed,0
+R100740,Classroom,Student Org,Tue,Morning,Event,31,2.9,57,2,1,0,0,0,Completed,0
+R100741,Classroom,Student Org,Mon,Morning,Meeting,9,3.8,66,1,0,0,1,0,Completed,0
+R100742,Sports Field,Student Org,Fri,Morning,Academic,16,3.1,34,0,0,0,1,0,Completed,0
+R100743,Classroom,Student Org,Wed,Morning,Academic,35,3.4,74,0,0,0,1,1,Completed,0
+R100744,Laboratory,Student Org,Mon,Afternoon,Academic,16,2.0,76,1,0,0,1,1,Completed,0
+R100745,Laboratory,Student Org,Thu,Afternoon,Academic,8,1.0,81,2,0,1,0,0,Cancelled,1
+R100746,Gymnasium,Student Org,Tue,Afternoon,Event,4,2.8,54,0,0,0,0,0,Completed,0
+R100747,Auditorium,Faculty,Fri,Morning,Meeting,3,4.2,111,0,1,0,0,0,Completed,0
+R100748,Conference Room,Student Org,Tue,Morning,Meeting,15,1.7,22,1,0,0,1,0,Completed,0
+R100749,Conference Room,Student Org,Tue,Evening,Event,10,1.6,104,1,0,0,1,0,Completed,0
+R100750,Gymnasium,Faculty,Mon,Afternoon,Academic,4,4.0,63,0,2,0,1,0,Completed,0
+R100751,Gymnasium,Staff,Wed,Morning,Academic,18,2.0,80,0,0,0,1,0,Completed,0
+R100752,Classroom,Student Org,Wed,Morning,Sports,18,2.0,30,1,0,0,1,0,Cancelled,1
+R100753,Laboratory,Faculty,Thu,Evening,Training,10,2.1,65,0,0,0,1,1,No-show,1
+R100754,Conference Room,External,Wed,Afternoon,Meeting,28,2.4,83,1,2,1,0,0,No-show,1
+R100755,Classroom,Faculty,Tue,Evening,Academic,2,0.6,7,0,1,0,1,1,Completed,0
+R100756,Gymnasium,External,Tue,Afternoon,Sports,8,1.9,35,1,2,1,0,0,Completed,0
+R100757,Sports Field,Staff,Tue,Afternoon,Sports,16,2.8,2,0,1,0,0,0,Cancelled,1
+R100758,Classroom,Student Org,Fri,Afternoon,Meeting,5,2.8,35,2,0,0,0,0,Completed,0
+R100759,Auditorium,Faculty,Mon,Morning,Academic,19,3.9,16,1,0,0,1,0,Cancelled,1
+R100760,Conference Room,Faculty,Sat,Afternoon,Academic,23,4.7,33,0,1,0,1,0,Completed,0
+R100761,Classroom,External,Tue,Afternoon,Event,1,4.3,128,0,0,0,0,0,Completed,0
+R100762,Classroom,Faculty,Mon,Morning,Training,28,3.6,92,1,1,1,1,0,Completed,0
+R100763,Classroom,Student Org,Tue,Evening,Event,15,2.3,2,0,0,1,1,0,No-show,1
+R100764,Sports Field,Faculty,Mon,Morning,Meeting,7,1.8,57,0,0,0,0,0,Completed,0
+R100765,Classroom,Student Org,Fri,Morning,Event,3,2.5,64,1,0,0,0,1,Cancelled,1
+R100766,Classroom,Staff,Wed,Morning,Sports,21,3.2,30,0,0,0,0,0,Completed,0
+R100767,Classroom,Faculty,Tue,Evening,Meeting,4,3.5,45,0,0,1,1,1,Completed,0
+R100768,Classroom,Staff,Thu,Evening,Sports,15,3.2,48,0,0,0,1,1,Completed,0
+R100769,Conference Room,Staff,Thu,Afternoon,Meeting,4,2.4,2,1,2,0,0,0,Completed,0
+R100770,Classroom,Faculty,Sat,Evening,Meeting,11,3.4,9,1,2,0,1,1,No-show,1
+R100771,Laboratory,Faculty,Sat,Evening,Event,20,4.0,45,0,0,0,1,0,No-show,1
+R100772,Laboratory,Staff,Thu,Evening,Meeting,7,3.6,43,2,0,0,1,0,Completed,0
+R100773,Conference Room,Staff,Fri,Evening,Training,28,2.5,19,1,0,0,0,0,Completed,0
+R100774,Classroom,Staff,Fri,Morning,Meeting,16,1.5,16,1,0,0,1,0,Completed,0
+R100775,Sports Field,Student Org,Wed,Afternoon,Meeting,5,1.5,37,1,0,0,0,0,Completed,0
+R100776,Laboratory,Faculty,Thu,Afternoon,Meeting,3,1.7,67,0,0,0,1,0,Completed,0
+R100777,Classroom,Student Org,Mon,Afternoon,Meeting,6,2.8,38,2,0,0,1,0,Completed,0
+R100778,Conference Room,Staff,Thu,Morning,Meeting,11,3.1,89,2,0,0,0,0,Cancelled,1
+R100779,Sports Field,Faculty,Sat,Afternoon,Event,30,0.8,19,2,0,0,0,1,Cancelled,1
+R100780,Gymnasium,Faculty,Mon,Evening,Meeting,33,1.9,46,0,0,0,0,0,Completed,0
+R100781,Sports Field,Student Org,Fri,Morning,Meeting,7,2.8,29,2,1,1,0,0,Cancelled,1
+R100782,Auditorium,Student Org,Sat,Evening,Event,7,1.4,58,0,0,0,1,0,Completed,0
+R100783,Laboratory,Staff,Tue,Morning,Academic,18,3.0,17,0,0,0,1,1,Completed,0
+R100784,Sports Field,Student Org,Wed,Morning,Event,18,2.1,98,0,0,0,1,1,No-show,1
+R100785,Gymnasium,Student Org,Fri,Morning,Meeting,25,1.6,2,3,1,1,1,0,Completed,0
+R100786,Conference Room,Staff,Sat,Afternoon,Meeting,26,2.6,91,0,2,0,0,0,Cancelled,1
+R100787,Gymnasium,Staff,Mon,Afternoon,Event,6,3.0,43,1,0,0,0,0,Completed,0
+R100788,Conference Room,Student Org,Tue,Morning,Sports,3,1.5,57,0,0,0,1,0,Cancelled,1
+R100789,Laboratory,Student Org,Thu,Afternoon,Sports,17,2.2,80,0,0,0,1,1,Completed,0
+R100790,Classroom,External,Tue,Morning,Meeting,13,3.1,66,1,0,1,0,0,No-show,1
+R100791,Auditorium,Staff,Tue,Afternoon,Meeting,2,1.6,18,0,0,0,1,1,Completed,0
+R100792,Gymnasium,Faculty,Mon,Evening,Event,3,0.5,58,0,0,0,1,0,Completed,0
+R100793,Classroom,Student Org,Mon,Afternoon,Event,16,0.7,96,2,0,0,1,1,No-show,1
+R100794,Classroom,Student Org,Wed,Afternoon,Event,10,2.0,13,0,0,1,1,0,Cancelled,1
+R100795,Gymnasium,Student Org,Thu,Afternoon,Event,16,0.9,104,0,0,1,1,0,Completed,0
+R100796,Classroom,Staff,Thu,Evening,Sports,4,2.1,52,1,0,0,1,0,Completed,0
+R100797,Classroom,Student Org,Thu,Morning,Academic,17,4.5,27,2,0,0,1,0,Completed,0
+R100798,Conference Room,Student Org,Wed,Morning,Event,14,0.8,13,1,0,0,1,1,Completed,0
+R100799,Conference Room,Staff,Tue,Morning,Academic,18,2.2,33,0,0,0,1,0,Completed,0
+R100800,Conference Room,External,Mon,Afternoon,Meeting,8,5.1,2,2,0,0,1,1,Completed,0
+R100801,Gymnasium,Staff,Tue,Afternoon,Event,6,3.0,28,0,1,0,1,0,Cancelled,1
+R100802,Sports Field,Faculty,Tue,Afternoon,Meeting,3,2.1,32,1,0,0,1,0,Completed,0
+R100803,Laboratory,Faculty,Mon,Morning,Meeting,9,2.3,8,0,0,0,0,0,Completed,0
+R100804,Classroom,Faculty,Mon,Morning,Sports,22,3.0,62,0,0,0,0,0,Completed,0
+R100805,Classroom,Student Org,Mon,Afternoon,Sports,26,4.5,33,2,0,0,1,1,Completed,0
+R100806,Conference Room,Faculty,Thu,Evening,Meeting,4,1.9,21,0,0,1,1,0,Completed,0
+R100807,Classroom,Faculty,Thu,Morning,Training,11,1.6,30,0,0,0,0,0,Completed,0
+R100808,Laboratory,Faculty,Sat,Morning,Meeting,30,0.8,51,0,1,0,1,0,Completed,0
+R100809,Sports Field,Staff,Fri,Morning,Sports,33,2.6,42,1,0,0,0,1,Completed,0
+R100810,Classroom,External,Wed,Afternoon,Academic,8,0.8,19,1,0,0,0,1,No-show,1
+R100811,Classroom,Student Org,Mon,Morning,Academic,24,1.9,44,1,0,0,1,1,No-show,1
+R100812,Sports Field,Student Org,Wed,Morning,Meeting,21,1.4,38,1,2,0,1,0,No-show,1
+R100813,Laboratory,Student Org,Mon,Afternoon,Academic,20,3.8,6,0,1,0,1,0,No-show,1
+R100814,Classroom,Student Org,Wed,Morning,Meeting,2,1.9,31,1,0,0,1,0,Completed,0
+R100815,Sports Field,Student Org,Tue,Morning,Academic,7,3.0,57,1,0,0,1,1,Completed,0
+R100816,Sports Field,Student Org,Wed,Morning,Event,10,0.6,57,0,0,0,0,0,Completed,0
+R100817,Laboratory,Staff,Tue,Evening,Academic,10,2.7,33,0,0,0,1,1,Completed,0
+R100818,Conference Room,Faculty,Thu,Afternoon,Academic,11,1.1,60,3,0,0,0,1,Completed,0
+R100819,Gymnasium,External,Fri,Morning,Training,35,2.0,11,0,0,0,0,1,No-show,1
+R100820,Classroom,Student Org,Thu,Morning,Event,9,5.2,12,5,1,0,1,1,Cancelled,1
+R100821,Laboratory,Student Org,Thu,Afternoon,Training,14,3.6,32,0,0,0,0,0,Completed,0
+R100822,Gymnasium,Faculty,Wed,Evening,Meeting,14,2.3,85,1,1,1,0,0,Completed,0
+R100823,Conference Room,Student Org,Mon,Morning,Academic,11,6.3,45,0,0,0,1,0,Completed,0
+R100824,Conference Room,Student Org,Thu,Morning,Event,4,1.4,32,1,0,1,0,0,Completed,0
+R100825,Classroom,External,Wed,Morning,Event,12,3.9,86,2,0,0,0,1,No-show,1
+R100826,Laboratory,Student Org,Tue,Afternoon,Academic,1,0.7,31,1,0,0,1,0,Completed,0
+R100827,Classroom,Student Org,Tue,Evening,Sports,15,2.2,107,1,0,0,1,1,Completed,0
+R100828,Sports Field,Faculty,Sat,Afternoon,Event,1,0.9,25,0,0,0,1,1,Completed,0
+R100829,Gymnasium,Faculty,Thu,Morning,Event,14,2.8,10,0,0,1,0,0,Completed,0
+R100830,Laboratory,Faculty,Wed,Afternoon,Meeting,7,2.6,35,0,2,0,0,0,Completed,0
+R100831,Laboratory,Student Org,Thu,Afternoon,Event,5,2.1,33,2,3,0,1,0,Completed,0
+R100832,Auditorium,Staff,Wed,Morning,Academic,18,3.8,16,0,0,1,1,0,Completed,0
+R100833,Conference Room,Student Org,Wed,Morning,Training,8,1.8,118,0,0,1,1,1,Completed,0
+R100834,Conference Room,Faculty,Tue,Morning,Meeting,11,2.9,50,0,1,1,0,1,Completed,0
+R100835,Laboratory,Faculty,Wed,Afternoon,Academic,2,3.5,54,0,1,0,1,1,Completed,0
+R100836,Conference Room,Staff,Thu,Afternoon,Academic,28,0.7,26,1,0,0,1,0,Completed,0
+R100837,Sports Field,Student Org,Mon,Afternoon,Event,12,1.6,23,1,0,0,1,1,Completed,0
+R100838,Auditorium,Faculty,Fri,Evening,Training,12,2.6,71,1,1,0,0,0,Completed,0
+R100839,Laboratory,Student Org,Tue,Morning,Sports,16,3.3,2,1,0,0,1,1,Cancelled,1
+R100840,Classroom,Student Org,Thu,Morning,Event,1,4.2,6,1,1,0,1,1,No-show,1
+R100841,Conference Room,Student Org,Thu,Morning,Training,29,2.2,33,3,0,0,1,1,Completed,0
+R100842,Laboratory,Staff,Thu,Evening,Event,8,2.1,81,0,0,0,1,0,Completed,0
+R100843,Auditorium,Student Org,Thu,Afternoon,Meeting,28,1.5,29,1,1,0,1,1,Completed,0
+R100844,Classroom,Staff,Sat,Morning,Event,8,2.9,52,0,0,0,1,0,Completed,0
+R100845,Sports Field,Student Org,Wed,Morning,Academic,7,2.1,41,1,0,1,0,0,Completed,0
+R100846,Auditorium,Staff,Thu,Afternoon,Academic,15,2.2,79,0,0,0,1,0,Completed,0
+R100847,Conference Room,Staff,Thu,Afternoon,Meeting,39,2.4,2,0,0,0,1,0,Completed,0
+R100848,Classroom,Student Org,Tue,Afternoon,Academic,24,3.2,62,1,0,0,1,0,Completed,0
+R100849,Sports Field,Student Org,Tue,Morning,Training,16,1.8,34,0,1,0,1,0,Completed,0
+R100850,Classroom,Student Org,Wed,Evening,Training,15,1.6,68,2,2,0,1,1,Completed,0
+R100851,Classroom,Staff,Tue,Afternoon,Meeting,12,3.0,15,0,0,1,1,1,Completed,0
+R100852,Sports Field,Student Org,Tue,Afternoon,Event,27,0.5,41,2,0,0,1,1,No-show,1
+R100853,Sports Field,Faculty,Tue,Afternoon,Meeting,19,1.8,37,0,0,0,1,1,Completed,0
+R100854,Classroom,Faculty,Thu,Evening,Academic,3,1.1,10,0,0,0,0,0,Completed,0
+R100855,Auditorium,Staff,Tue,Evening,Meeting,5,3.9,2,1,0,0,1,1,Completed,0
+R100856,Conference Room,Faculty,Fri,Afternoon,Academic,16,2.0,23,0,0,0,1,0,No-show,1
+R100857,Sports Field,Faculty,Wed,Afternoon,Meeting,4,1.8,44,0,0,0,0,0,Completed,0
+R100858,Auditorium,External,Thu,Morning,Academic,12,2.4,17,0,0,0,1,1,Completed,0
+R100859,Laboratory,Student Org,Mon,Evening,Academic,20,1.8,30,0,0,0,0,1,Completed,0
+R100860,Conference Room,Staff,Wed,Afternoon,Academic,15,2.0,2,1,0,0,1,0,Completed,0
+R100861,Conference Room,Student Org,Mon,Morning,Training,4,2.6,29,2,0,0,0,1,Cancelled,1
+R100862,Conference Room,Faculty,Thu,Morning,Academic,5,2.0,71,0,0,0,0,0,Completed,0
+R100863,Laboratory,Staff,Tue,Evening,Meeting,15,2.0,61,0,0,0,1,1,Completed,0
+R100864,Classroom,Faculty,Sat,Evening,Meeting,37,1.3,37,1,0,0,0,0,Completed,0
+R100865,Sports Field,Faculty,Tue,Evening,Meeting,10,1.1,47,1,0,0,1,0,Completed,0
+R100866,Sports Field,Student Org,Wed,Afternoon,Meeting,20,2.6,15,1,0,0,0,1,No-show,1
+R100867,Conference Room,Faculty,Tue,Afternoon,Academic,15,2.9,89,0,0,0,1,0,Completed,0
+R100868,Classroom,Student Org,Thu,Evening,Event,7,0.8,102,0,1,0,1,0,Completed,0
+R100869,Classroom,Faculty,Wed,Morning,Event,20,3.4,45,1,0,1,1,1,No-show,1
+R100870,Conference Room,Faculty,Tue,Morning,Event,2,3.4,118,0,0,0,0,1,No-show,1
+R100871,Classroom,Student Org,Tue,Evening,Event,19,3.7,20,1,2,0,0,0,No-show,1
+R100872,Sports Field,Student Org,Mon,Morning,Meeting,16,2.9,2,1,0,0,0,1,Cancelled,1
+R100873,Auditorium,Student Org,Mon,Afternoon,Meeting,7,3.3,19,0,0,0,1,0,Completed,0
+R100874,Conference Room,Student Org,Sat,Afternoon,Academic,5,5.1,33,2,1,0,1,0,No-show,1
+R100875,Sports Field,Student Org,Wed,Afternoon,Meeting,8,2.1,109,1,1,0,1,1,Cancelled,1
+R100876,Auditorium,Staff,Mon,Morning,Academic,6,1.2,32,2,0,0,1,0,Completed,0
+R100877,Gymnasium,Faculty,Sat,Afternoon,Meeting,9,0.7,14,0,0,0,1,0,Completed,0
+R100878,Laboratory,Student Org,Mon,Morning,Event,8,4.6,13,1,0,0,0,1,Completed,0
+R100879,Laboratory,Faculty,Wed,Evening,Academic,7,4.6,74,0,0,0,0,1,Completed,0
+R100880,Auditorium,Staff,Thu,Morning,Academic,2,1.4,70,0,1,0,1,0,Completed,0
+R100881,Laboratory,Student Org,Fri,Afternoon,Event,4,1.6,25,0,0,0,1,0,No-show,1
+R100882,Sports Field,Student Org,Thu,Afternoon,Meeting,23,2.1,2,0,0,0,0,1,Completed,0
+R100883,Auditorium,Student Org,Wed,Morning,Sports,7,4.0,6,0,1,1,0,1,Completed,0
+R100884,Classroom,Student Org,Sat,Morning,Training,9,1.0,92,1,0,0,0,0,Completed,0
+R100885,Auditorium,Staff,Mon,Afternoon,Training,8,0.5,61,0,0,0,1,0,Completed,0
+R100886,Auditorium,External,Sat,Morning,Meeting,28,5.1,42,0,1,1,1,0,Completed,0
+R100887,Classroom,Student Org,Fri,Morning,Academic,6,2.9,96,0,2,0,1,0,Completed,0
+R100888,Classroom,Staff,Fri,Afternoon,Event,6,3.0,99,0,0,0,0,0,Completed,0
+R100889,Conference Room,Student Org,Tue,Evening,Event,16,2.3,39,0,1,0,0,0,Completed,0
+R100890,Gymnasium,Faculty,Mon,Afternoon,Event,13,3.1,39,0,0,0,0,1,Completed,0
+R100891,Sports Field,Staff,Thu,Morning,Meeting,16,0.7,23,0,1,0,1,1,Completed,0
+R100892,Classroom,Student Org,Wed,Evening,Academic,16,1.5,31,1,0,1,1,0,No-show,1
+R100893,Classroom,Student Org,Wed,Afternoon,Academic,21,2.6,2,1,0,0,1,0,Cancelled,1
+R100894,Conference Room,Faculty,Fri,Afternoon,Academic,3,0.5,2,1,0,0,0,0,Completed,0
+R100895,Sports Field,External,Thu,Afternoon,Academic,15,2.1,2,0,2,0,1,0,Cancelled,1
+R100896,Gymnasium,Student Org,Tue,Morning,Training,6,2.1,73,1,1,0,0,0,Completed,0
+R100897,Classroom,Student Org,Wed,Morning,Academic,2,2.1,2,2,0,1,1,1,Completed,0
+R100898,Classroom,Student Org,Mon,Afternoon,Event,16,1.8,98,2,1,1,1,0,Cancelled,1
+R100899,Laboratory,Faculty,Mon,Morning,Training,15,1.3,18,0,0,0,1,1,Completed,0
+R100900,Auditorium,Faculty,Mon,Afternoon,Meeting,11,0.5,92,1,0,0,1,0,Completed,0
+R100901,Gymnasium,Staff,Fri,Morning,Meeting,21,2.7,29,0,0,0,0,0,Completed,0
+R100902,Classroom,Staff,Thu,Morning,Event,6,2.1,2,0,0,1,0,1,Completed,0
+R100903,Laboratory,Staff,Wed,Morning,Meeting,17,0.8,79,0,0,0,0,1,Completed,0
+R100904,Sports Field,Staff,Tue,Afternoon,Meeting,10,2.6,82,0,0,0,1,0,Completed,0
+R100905,Conference Room,Student Org,Thu,Afternoon,Sports,10,2.1,13,0,1,0,0,1,Completed,0
+R100906,Laboratory,Faculty,Fri,Morning,Event,2,1.9,30,0,0,1,1,0,No-show,1
+R100907,Classroom,Student Org,Fri,Morning,Sports,21,0.5,13,2,1,0,0,1,Completed,0
+R100908,Gymnasium,Student Org,Wed,Morning,Training,15,3.3,36,0,0,1,0,0,Completed,0
+R100909,Gymnasium,External,Fri,Evening,Meeting,17,1.0,43,0,1,0,1,0,Completed,0
+R100910,Conference Room,Faculty,Wed,Morning,Event,5,2.6,29,0,0,0,1,1,Completed,0
+R100911,Sports Field,External,Wed,Afternoon,Event,13,1.5,2,0,1,0,1,1,Completed,0
+R100912,Sports Field,Faculty,Fri,Morning,Event,10,2.0,23,0,0,1,1,1,Completed,0
+R100913,Sports Field,Faculty,Tue,Morning,Event,15,3.9,61,1,0,0,0,0,Completed,0
+R100914,Sports Field,Faculty,Tue,Afternoon,Event,13,3.1,34,0,0,0,0,1,Completed,0
+R100915,Sports Field,Student Org,Tue,Afternoon,Sports,31,3.9,30,2,0,1,1,0,Completed,0
+R100916,Classroom,Student Org,Wed,Morning,Meeting,25,2.9,12,2,0,1,1,0,Completed,0
+R100917,Classroom,Faculty,Wed,Evening,Event,9,3.0,22,0,2,0,0,0,Cancelled,1
+R100918,Gymnasium,Student Org,Thu,Morning,Academic,16,0.5,82,1,0,0,1,0,Cancelled,1
+R100919,Laboratory,External,Wed,Morning,Event,8,2.1,6,0,1,0,1,0,Completed,0
+R100920,Classroom,Student Org,Tue,Morning,Sports,21,2.2,62,1,0,0,0,1,No-show,1
+R100921,Conference Room,Student Org,Fri,Afternoon,Sports,10,4.0,41,0,0,0,1,0,Cancelled,1
+R100922,Laboratory,Staff,Tue,Afternoon,Meeting,8,1.9,47,0,0,0,1,0,Completed,0
+R100923,Laboratory,Student Org,Fri,Morning,Meeting,13,2.8,18,0,0,0,1,0,Completed,0
+R100924,Classroom,External,Tue,Evening,Meeting,24,2.8,29,0,0,0,1,1,Completed,0
+R100925,Gymnasium,Staff,Wed,Afternoon,Academic,22,3.9,40,1,1,0,0,0,No-show,1
+R100926,Classroom,Student Org,Wed,Evening,Academic,8,2.3,24,1,0,0,0,0,No-show,1
+R100927,Sports Field,Faculty,Fri,Evening,Training,30,3.5,50,0,0,1,0,0,Completed,0
+R100928,Laboratory,Faculty,Mon,Evening,Meeting,5,0.5,54,1,1,0,0,1,Completed,0
+R100929,Conference Room,Staff,Fri,Afternoon,Training,7,0.6,105,1,0,1,1,1,Completed,0
+R100930,Gymnasium,Staff,Wed,Morning,Academic,20,0.5,48,1,0,0,1,0,Completed,0
+R100931,Auditorium,Staff,Wed,Afternoon,Event,2,3.4,2,0,0,0,0,1,Completed,0
+R100932,Auditorium,Faculty,Wed,Afternoon,Event,11,3.3,75,0,1,0,1,0,Completed,0
+R100933,Conference Room,Student Org,Mon,Afternoon,Event,9,3.6,34,3,0,0,0,1,Cancelled,1
+R100934,Conference Room,Faculty,Wed,Afternoon,Event,31,1.7,100,0,0,0,1,0,Cancelled,1
+R100935,Classroom,External,Tue,Morning,Event,5,1.8,84,0,1,1,1,0,Completed,0
+R100936,Sports Field,Faculty,Tue,Evening,Training,5,2.4,25,1,0,0,0,0,Completed,0
+R100937,Classroom,Faculty,Thu,Morning,Event,33,4.2,62,3,0,0,0,1,No-show,1
+R100938,Sports Field,Faculty,Wed,Evening,Academic,9,4.5,22,0,1,0,0,0,Completed,0
+R100939,Classroom,Staff,Mon,Morning,Academic,23,3.5,40,0,0,0,1,0,Completed,0
+R100940,Gymnasium,External,Mon,Morning,Event,8,2.9,60,0,2,0,1,0,Cancelled,1
+R100941,Conference Room,Student Org,Mon,Evening,Meeting,7,4.1,73,1,0,0,1,1,No-show,1
+R100942,Classroom,Student Org,Mon,Evening,Meeting,24,2.2,67,1,0,0,0,0,No-show,1
+R100943,Auditorium,Faculty,Thu,Afternoon,Event,39,2.0,42,0,1,0,1,1,Completed,0
+R100944,Auditorium,Faculty,Mon,Evening,Meeting,25,2.3,115,0,1,0,0,0,No-show,1
+R100945,Classroom,Faculty,Fri,Morning,Sports,8,1.3,29,1,0,1,1,1,Completed,0
+R100946,Conference Room,Student Org,Tue,Evening,Event,11,2.3,2,0,0,0,1,0,Completed,0
+R100947,Sports Field,Faculty,Mon,Morning,Event,5,1.2,2,0,0,1,0,0,Completed,0
+R100948,Sports Field,Faculty,Fri,Afternoon,Event,6,3.7,84,0,0,0,1,0,Completed,0
+R100949,Gymnasium,Faculty,Tue,Afternoon,Sports,6,3.2,38,1,1,0,0,0,Completed,0
+R100950,Laboratory,Faculty,Wed,Morning,Event,8,4.2,45,0,1,0,1,1,Completed,0
+R100951,Classroom,Staff,Sat,Afternoon,Training,12,0.5,24,0,0,1,0,1,Completed,0
+R100952,Classroom,Faculty,Sat,Afternoon,Academic,11,4.8,26,0,0,0,1,0,Completed,0
+R100953,Classroom,Staff,Thu,Morning,Event,18,0.6,16,0,0,0,1,0,Completed,0
+R100954,Sports Field,Faculty,Mon,Evening,Event,13,1.1,54,0,0,1,0,0,Completed,0
+R100955,Sports Field,Faculty,Wed,Afternoon,Meeting,17,1.8,37,0,1,1,0,0,Completed,0
+R100956,Conference Room,Faculty,Sat,Morning,Academic,19,4.1,53,0,0,0,1,1,Completed,0
+R100957,Laboratory,Student Org,Sat,Afternoon,Event,8,2.8,50,0,0,0,1,0,Cancelled,1
+R100958,Laboratory,Student Org,Mon,Morning,Meeting,10,2.2,27,1,0,0,1,0,Cancelled,1
+R100959,Laboratory,Faculty,Tue,Morning,Training,60,1.5,2,1,0,0,0,0,No-show,1
+R100960,Laboratory,Staff,Tue,Afternoon,Meeting,7,0.8,2,1,0,0,0,1,Completed,0
+R100961,Auditorium,Faculty,Mon,Morning,Academic,18,3.9,131,3,0,0,0,1,No-show,1
+R100962,Classroom,Student Org,Thu,Morning,Event,4,3.5,84,0,1,0,0,1,Completed,0
+R100963,Classroom,Faculty,Tue,Afternoon,Meeting,19,4.1,80,2,0,0,1,0,Cancelled,1
+R100964,Sports Field,Student Org,Tue,Morning,Academic,6,3.0,20,0,0,0,0,0,Completed,0
+R100965,Laboratory,Staff,Mon,Evening,Event,12,0.5,40,1,0,0,0,0,Completed,0
+R100966,Sports Field,Staff,Wed,Afternoon,Meeting,3,1.0,16,1,1,0,0,1,Completed,0
+R100967,Classroom,Faculty,Mon,Morning,Academic,11,3.1,2,1,0,0,0,0,Completed,0
+R100968,Laboratory,Faculty,Wed,Afternoon,Event,11,2.1,22,1,1,1,1,1,Completed,0
+R100969,Classroom,Student Org,Mon,Morning,Event,10,1.8,80,1,0,0,0,0,No-show,1
+R100970,Gymnasium,Faculty,Sat,Afternoon,Sports,15,1.2,65,0,0,1,0,1,Completed,0
+R100971,Classroom,Staff,Mon,Morning,Meeting,23,3.6,11,0,1,0,0,0,Completed,0
+R100972,Classroom,Staff,Wed,Evening,Academic,5,3.0,31,0,0,0,1,1,Cancelled,1
+R100973,Sports Field,Faculty,Mon,Morning,Training,10,3.1,62,1,0,1,1,0,Completed,0
+R100974,Gymnasium,Student Org,Mon,Afternoon,Event,3,1.7,23,0,0,0,0,1,Completed,0
+R100975,Laboratory,Student Org,Tue,Morning,Academic,2,2.7,42,1,1,0,0,0,Completed,0
+R100976,Auditorium,Student Org,Mon,Morning,Sports,13,0.9,52,0,0,1,1,1,Completed,0
+R100977,Auditorium,Student Org,Mon,Afternoon,Academic,5,2.3,52,1,0,1,1,1,Completed,0
+R100978,Laboratory,Student Org,Wed,Afternoon,Sports,11,0.5,48,2,0,0,0,0,Completed,0
+R100979,Classroom,External,Thu,Evening,Event,13,0.6,20,0,1,1,0,0,Completed,0
+R100980,Sports Field,Faculty,Mon,Morning,Training,2,2.1,23,1,1,0,1,0,Completed,0
+R100981,Conference Room,Student Org,Wed,Morning,Training,14,5.4,6,1,1,0,1,0,Completed,0
+R100982,Conference Room,Student Org,Wed,Morning,Academic,22,0.5,2,2,0,0,1,0,Cancelled,1
+R100983,Auditorium,Student Org,Tue,Morning,Sports,17,1.0,37,1,0,0,1,0,No-show,1
+R100984,Classroom,Staff,Tue,Evening,Meeting,5,2.8,64,1,0,0,1,0,Completed,0
+R100985,Sports Field,Student Org,Mon,Evening,Event,11,4.6,2,0,0,0,1,0,No-show,1
+R100986,Gymnasium,Staff,Tue,Evening,Event,12,2.7,48,0,0,0,0,0,Completed,0
+R100987,Classroom,Staff,Wed,Morning,Academic,10,3.3,64,1,0,0,1,0,Completed,0
+R100988,Gymnasium,Student Org,Sat,Afternoon,Academic,4,2.1,2,0,0,0,1,1,Completed,0
+R100989,Conference Room,Faculty,Sat,Afternoon,Academic,6,1.9,32,0,1,0,0,0,Completed,0
+R100990,Conference Room,External,Sat,Morning,Academic,9,2.6,89,0,1,0,1,1,Completed,0
+R100991,Conference Room,Faculty,Wed,Afternoon,Academic,13,1.7,57,0,0,0,0,1,Completed,0
+R100992,Conference Room,Student Org,Mon,Morning,Training,7,3.4,2,2,1,0,1,0,Completed,0
+R100993,Classroom,External,Tue,Morning,Meeting,2,0.6,60,0,2,0,0,1,Completed,0
+R100994,Sports Field,Staff,Tue,Evening,Sports,7,3.6,18,0,0,1,0,0,Completed,0
+R100995,Auditorium,Faculty,Mon,Morning,Sports,31,2.5,61,0,0,1,1,0,Completed,0
+R100996,Conference Room,Faculty,Mon,Evening,Event,14,2.2,19,0,1,0,0,0,No-show,1
+R100997,Classroom,Student Org,Wed,Morning,Meeting,13,0.5,38,0,0,0,0,1,Completed,0
+R100998,Sports Field,Staff,Tue,Morning,Sports,6,1.3,24,1,0,0,1,0,Completed,0
+R100999,Gymnasium,Faculty,Mon,Morning,Event,8,3.9,40,0,1,0,0,0,No-show,1
+R101000,Classroom,Student Org,Thu,Morning,Event,2,2.2,23,2,0,0,1,0,Completed,0
+R101001,Auditorium,Faculty,Tue,Afternoon,Training,5,2.8,33,0,0,0,1,0,Completed,0
+R101002,Classroom,External,Fri,Morning,Event,14,1.4,5,1,2,1,0,0,No-show,1
+R101003,Classroom,Staff,Tue,Afternoon,Meeting,13,2.5,55,0,0,0,1,0,Cancelled,1
+R101004,Conference Room,Student Org,Wed,Evening,Sports,7,0.9,45,1,0,0,1,0,Completed,0
+R101005,Auditorium,Student Org,Mon,Morning,Meeting,10,2.6,2,0,0,0,1,1,Completed,0
+R101006,Sports Field,External,Wed,Morning,Sports,11,2.9,70,0,0,0,0,0,Completed,0
+R101007,Gymnasium,External,Mon,Afternoon,Academic,7,2.9,35,1,0,0,1,0,Completed,0
+R101008,Conference Room,Faculty,Mon,Afternoon,Academic,15,1.4,45,0,1,0,1,0,Completed,0
+R101009,Auditorium,Faculty,Thu,Afternoon,Meeting,12,2.1,63,0,0,0,0,1,Completed,0
+R101010,Conference Room,Faculty,Tue,Morning,Academic,8,3.1,50,0,0,0,0,1,Completed,0
+R101011,Laboratory,Faculty,Mon,Afternoon,Training,4,2.2,75,0,0,0,1,0,Completed,0
+R101012,Laboratory,Student Org,Fri,Afternoon,Academic,8,2.2,31,1,0,0,0,1,Cancelled,1
+R101013,Sports Field,Student Org,Mon,Morning,Event,7,4.8,71,2,0,0,1,1,Completed,0
+R101014,Gymnasium,Student Org,Wed,Morning,Academic,7,1.4,44,4,0,0,0,1,Cancelled,1
+R101015,Classroom,Staff,Wed,Evening,Training,3,3.8,55,0,0,0,0,1,Completed,0
+R101016,Conference Room,Student Org,Tue,Morning,Meeting,26,1.1,52,0,2,0,1,1,Completed,0
+R101017,Conference Room,Student Org,Wed,Morning,Academic,25,3.3,77,1,0,0,0,0,Completed,0
+R101018,Classroom,Faculty,Mon,Morning,Academic,10,3.3,62,1,0,0,1,0,Completed,0
+R101019,Auditorium,Student Org,Thu,Afternoon,Event,13,1.9,27,1,1,1,1,0,Completed,0
+R101020,Sports Field,Student Org,Tue,Afternoon,Training,15,1.0,21,1,0,0,1,0,Cancelled,1
+R101021,Conference Room,Faculty,Mon,Morning,Training,10,0.5,39,0,0,0,1,0,Completed,0
+R101022,Sports Field,Student Org,Tue,Afternoon,Meeting,13,1.8,17,1,0,0,0,1,Cancelled,1
+R101023,Laboratory,Faculty,Fri,Afternoon,Meeting,16,3.1,8,0,0,0,1,1,Completed,0
+R101024,Conference Room,External,Fri,Morning,Academic,12,1.2,2,2,1,0,0,1,No-show,1
+R101025,Gymnasium,Student Org,Sat,Evening,Meeting,18,2.6,2,1,0,0,1,1,No-show,1
+R101026,Sports Field,External,Thu,Morning,Event,6,0.7,100,0,1,1,0,1,Completed,0
+R101027,Gymnasium,External,Thu,Morning,Academic,11,2.2,20,0,2,1,0,1,Cancelled,1
+R101028,Conference Room,Staff,Wed,Evening,Event,51,1.1,97,0,0,0,1,0,Completed,0
+R101029,Auditorium,Faculty,Fri,Evening,Sports,21,2.4,52,0,1,0,1,0,Completed,0
+R101030,Laboratory,Faculty,Wed,Morning,Academic,12,1.9,39,0,0,0,0,0,Completed,0
+R101031,Conference Room,Faculty,Tue,Evening,Academic,5,1.1,2,1,0,0,1,0,Completed,0
+R101032,Laboratory,Faculty,Thu,Afternoon,Academic,11,1.7,40,0,0,0,1,0,Completed,0
+R101033,Sports Field,Student Org,Wed,Morning,Academic,20,1.4,97,2,1,0,0,0,Completed,0
+R101034,Auditorium,External,Mon,Evening,Academic,17,0.9,87,1,0,0,0,0,Cancelled,1
+R101035,Conference Room,Faculty,Tue,Afternoon,Event,2,3.8,48,0,0,0,0,0,Completed,0
+R101036,Gymnasium,Staff,Tue,Morning,Academic,3,2.1,6,0,2,0,0,1,Completed,0
+R101037,Auditorium,Student Org,Fri,Afternoon,Event,3,0.5,11,0,0,0,1,0,Completed,0
+R101038,Auditorium,Student Org,Tue,Morning,Sports,15,1.8,14,2,0,0,0,1,Completed,0
+R101039,Classroom,Faculty,Fri,Morning,Training,3,3.6,78,0,0,0,1,0,Completed,0
+R101040,Classroom,Faculty,Wed,Evening,Event,5,1.6,89,0,0,0,0,1,Cancelled,1
+R101041,Conference Room,Faculty,Thu,Afternoon,Academic,10,4.3,46,0,0,0,0,1,Completed,0
+R101042,Conference Room,Student Org,Mon,Afternoon,Academic,22,1.5,31,0,0,0,1,1,No-show,1
+R101043,Conference Room,Student Org,Fri,Afternoon,Academic,15,3.1,86,4,1,0,0,0,Completed,0
+R101044,Classroom,Faculty,Wed,Afternoon,Training,9,3.7,11,0,0,0,1,0,Completed,0
+R101045,Gymnasium,Student Org,Tue,Morning,Training,19,3.0,42,1,1,0,0,0,Cancelled,1
+R101046,Classroom,External,Tue,Evening,Meeting,37,0.9,54,0,1,1,1,0,Cancelled,1
+R101047,Conference Room,Student Org,Tue,Afternoon,Meeting,11,1.4,14,0,0,0,1,1,Completed,0
+R101048,Sports Field,Student Org,Tue,Afternoon,Meeting,4,3.9,21,1,0,0,1,0,Completed,0
+R101049,Classroom,Student Org,Thu,Afternoon,Academic,5,1.5,19,1,0,0,0,0,Completed,0
+R101050,Conference Room,Faculty,Sat,Morning,Training,5,3.7,83,0,0,0,1,1,Completed,0
+R101051,Classroom,Faculty,Thu,Morning,Academic,6,2.0,97,0,0,0,0,0,Cancelled,1
+R101052,Gymnasium,Faculty,Wed,Morning,Meeting,8,2.7,43,1,1,1,1,1,Completed,0
+R101053,Classroom,External,Wed,Morning,Meeting,13,0.8,32,0,1,0,0,0,Cancelled,1
+R101054,Gymnasium,Student Org,Fri,Afternoon,Academic,3,1.8,22,4,0,0,0,0,No-show,1
+R101055,Conference Room,Faculty,Fri,Evening,Meeting,4,1.4,40,0,0,0,1,0,Completed,0
+R101056,Sports Field,Student Org,Tue,Morning,Sports,16,2.8,23,1,0,0,1,0,Completed,0
+R101057,Classroom,Student Org,Sat,Morning,Academic,7,2.6,37,2,0,0,0,1,Completed,0
+R101058,Laboratory,Faculty,Tue,Afternoon,Event,5,3.1,52,0,0,0,1,1,Completed,0
+R101059,Conference Room,Student Org,Fri,Morning,Meeting,9,1.9,28,2,0,0,1,0,Completed,0
+R101060,Sports Field,Faculty,Sat,Evening,Academic,25,1.4,34,1,1,1,1,0,Completed,0
+R101061,Laboratory,Faculty,Thu,Morning,Academic,18,2.7,34,0,1,0,1,1,Completed,0
+R101062,Gymnasium,Staff,Mon,Morning,Academic,17,1.3,30,0,0,1,0,0,Completed,0
+R101063,Conference Room,Faculty,Wed,Morning,Academic,31,3.8,27,1,0,1,0,0,No-show,1
+R101064,Gymnasium,Faculty,Mon,Evening,Meeting,13,2.4,63,0,1,1,0,0,Completed,0
+R101065,Sports Field,Student Org,Fri,Morning,Sports,32,2.1,2,2,1,1,1,1,Completed,0
+R101066,Auditorium,Student Org,Tue,Afternoon,Event,34,3.1,87,0,0,0,0,0,Cancelled,1
+R101067,Conference Room,Student Org,Thu,Morning,Training,3,2.4,44,2,2,0,0,0,Completed,0
+R101068,Classroom,Faculty,Fri,Morning,Meeting,2,0.5,58,0,0,0,0,1,Completed,0
+R101069,Auditorium,External,Mon,Evening,Event,5,1.2,62,0,1,0,1,1,Completed,0
+R101070,Sports Field,Student Org,Tue,Morning,Event,23,3.8,19,2,2,0,1,1,Completed,0
+R101071,Laboratory,Faculty,Thu,Morning,Academic,9,2.6,13,0,0,0,0,1,Cancelled,1
+R101072,Auditorium,Staff,Wed,Afternoon,Meeting,8,0.5,9,1,0,1,0,1,Completed,0
+R101073,Sports Field,Staff,Mon,Evening,Meeting,19,2.9,33,1,2,0,1,0,Cancelled,1
+R101074,Sports Field,Faculty,Mon,Morning,Sports,7,1.8,61,0,1,0,1,1,Completed,0
+R101075,Gymnasium,Faculty,Wed,Morning,Meeting,12,1.5,22,0,1,0,1,0,Completed,0
+R101076,Laboratory,Faculty,Thu,Evening,Academic,16,1.1,58,0,0,0,0,0,Completed,0
+R101077,Laboratory,Staff,Wed,Afternoon,Training,5,3.7,2,0,0,0,0,1,Completed,0
+R101078,Conference Room,Student Org,Mon,Evening,Academic,4,0.5,28,2,0,0,0,1,Completed,0
+R101079,Gymnasium,External,Wed,Afternoon,Training,11,1.5,75,0,0,0,0,0,Completed,0
+R101080,Classroom,Student Org,Tue,Afternoon,Sports,12,2.6,35,0,1,0,0,0,No-show,1
+R101081,Sports Field,Staff,Tue,Morning,Sports,18,4.4,15,1,0,0,1,1,Completed,0
+R101082,Sports Field,Student Org,Thu,Morning,Sports,5,3.2,20,0,0,0,1,0,Completed,0
+R101083,Conference Room,Student Org,Tue,Afternoon,Academic,6,1.5,2,0,1,0,0,1,Completed,0
+R101084,Sports Field,Student Org,Wed,Afternoon,Event,34,4.3,10,0,0,0,0,0,Cancelled,1
+R101085,Conference Room,Faculty,Fri,Evening,Sports,21,0.9,72,0,0,1,1,0,Completed,0
+R101086,Conference Room,Student Org,Wed,Afternoon,Event,10,2.8,23,0,0,0,1,1,Completed,0
+R101087,Conference Room,Student Org,Thu,Morning,Academic,23,3.1,26,0,0,1,0,1,Completed,0
+R101088,Laboratory,Faculty,Mon,Afternoon,Academic,5,1.4,2,1,0,0,0,1,Cancelled,1
+R101089,Auditorium,Faculty,Mon,Afternoon,Meeting,9,3.3,2,0,0,0,1,1,Completed,0
+R101090,Classroom,Staff,Mon,Afternoon,Meeting,12,1.9,76,0,0,1,0,0,Completed,0
+R101091,Conference Room,Staff,Thu,Afternoon,Event,8,3.3,59,1,0,0,1,1,Completed,0
+R101092,Gymnasium,Faculty,Fri,Afternoon,Sports,8,0.5,2,0,0,0,1,0,Completed,0
+R101093,Gymnasium,Student Org,Mon,Morning,Sports,17,2.9,21,2,0,0,1,0,No-show,1
+R101094,Laboratory,Student Org,Tue,Afternoon,Event,21,2.0,39,2,0,0,1,0,No-show,1
+R101095,Auditorium,External,Tue,Afternoon,Academic,8,3.9,4,0,0,0,1,0,Completed,0
+R101096,Classroom,Student Org,Wed,Evening,Meeting,3,2.4,2,0,0,0,0,0,Completed,0
+R101097,Conference Room,Faculty,Thu,Afternoon,Meeting,3,4.0,35,0,0,0,0,0,Completed,0
+R101098,Sports Field,External,Thu,Afternoon,Academic,1,3.1,57,1,1,1,1,0,Completed,0
+R101099,Classroom,External,Fri,Afternoon,Academic,30,2.3,58,1,1,1,0,0,No-show,1
+R101100,Classroom,Faculty,Tue,Afternoon,Meeting,17,3.4,66,2,0,0,0,0,No-show,1
+R101101,Gymnasium,Faculty,Thu,Morning,Academic,15,3.5,2,0,0,0,1,0,Completed,0
+R101102,Conference Room,Faculty,Wed,Evening,Event,7,3.1,42,0,0,0,1,1,No-show,1
+R101103,Conference Room,Staff,Tue,Evening,Academic,7,0.5,32,0,1,0,1,0,Completed,0
+R101104,Classroom,Student Org,Fri,Afternoon,Academic,21,1.3,37,2,0,1,0,1,Completed,0
+R101105,Conference Room,Student Org,Mon,Afternoon,Academic,2,4.2,34,0,0,0,1,0,Completed,0
+R101106,Classroom,Faculty,Thu,Morning,Event,8,1.0,20,0,1,0,0,1,Completed,0
+R101107,Auditorium,Student Org,Thu,Afternoon,Event,23,3.6,2,1,0,0,0,1,Completed,0
+R101108,Sports Field,Faculty,Fri,Afternoon,Meeting,8,3.3,75,0,1,0,0,1,Completed,0
+R101109,Classroom,Student Org,Wed,Afternoon,Academic,17,1.6,50,1,0,1,1,1,Completed,0
+R101110,Classroom,Staff,Tue,Morning,Training,10,0.5,2,0,0,1,1,1,Completed,0
+R101111,Auditorium,Staff,Fri,Afternoon,Event,1,1.8,54,0,0,0,1,0,Completed,0
+R101112,Laboratory,Faculty,Thu,Morning,Event,10,5.0,27,0,1,0,0,0,Completed,0
+R101113,Sports Field,Staff,Wed,Afternoon,Meeting,11,1.5,27,0,0,0,0,0,Cancelled,1
+R101114,Sports Field,Student Org,Thu,Afternoon,Sports,9,1.5,17,1,0,0,0,1,Completed,0
+R101115,Classroom,Faculty,Tue,Morning,Sports,4,1.3,56,1,1,1,0,1,Completed,0
+R101116,Classroom,Student Org,Wed,Afternoon,Meeting,9,4.0,16,0,0,0,1,0,Completed,0
+R101117,Conference Room,Staff,Fri,Evening,Event,2,2.2,7,2,1,0,1,1,Completed,0
+R101118,Gymnasium,Staff,Tue,Afternoon,Academic,8,1.7,74,2,1,0,1,0,Completed,0
+R101119,Sports Field,External,Wed,Morning,Event,18,4.2,35,0,1,0,1,1,Completed,0
+R101120,Conference Room,Staff,Sat,Afternoon,Meeting,29,3.2,36,0,1,0,1,0,Completed,0
+R101121,Classroom,External,Fri,Morning,Academic,26,1.4,61,0,0,1,1,0,Completed,0
+R101122,Conference Room,Student Org,Fri,Afternoon,Training,4,1.0,20,1,1,1,0,1,Completed,0
+R101123,Classroom,External,Tue,Afternoon,Sports,3,3.9,26,0,1,0,1,0,Cancelled,1
+R101124,Auditorium,Faculty,Sat,Morning,Academic,12,2.5,49,0,1,0,1,1,Completed,0
+R101125,Laboratory,Faculty,Mon,Afternoon,Training,11,0.6,2,0,1,0,1,1,Completed,0
+R101126,Laboratory,Faculty,Wed,Afternoon,Meeting,16,0.5,47,1,1,1,1,0,Completed,0
+R101127,Conference Room,Student Org,Wed,Afternoon,Meeting,6,1.2,17,1,0,0,1,0,Completed,0
+R101128,Conference Room,Student Org,Fri,Morning,Sports,11,1.0,66,2,0,1,1,0,Completed,0
+R101129,Sports Field,Student Org,Fri,Morning,Meeting,11,0.5,56,1,0,1,1,0,Completed,0
+R101130,Sports Field,Student Org,Thu,Afternoon,Meeting,8,1.2,52,2,0,0,0,1,Cancelled,1
+R101131,Laboratory,Faculty,Thu,Morning,Event,2,1.4,2,1,0,0,1,0,Completed,0
+R101132,Classroom,Staff,Wed,Afternoon,Academic,17,1.9,37,0,0,1,1,0,Completed,0
+R101133,Conference Room,Faculty,Wed,Morning,Meeting,12,4.5,5,1,0,0,1,0,Completed,0
+R101134,Sports Field,Faculty,Wed,Morning,Meeting,18,2.2,39,1,0,0,1,0,Completed,0
+R101135,Gymnasium,Faculty,Mon,Afternoon,Event,21,2.3,2,1,0,0,1,0,Completed,0
+R101136,Auditorium,Faculty,Wed,Morning,Academic,10,3.1,2,1,0,0,1,0,Completed,0
+R101137,Auditorium,Student Org,Fri,Afternoon,Academic,18,2.2,76,1,0,0,0,0,Completed,0
+R101138,Classroom,Staff,Thu,Morning,Event,30,3.0,51,0,0,1,0,1,Completed,0
+R101139,Conference Room,Student Org,Fri,Afternoon,Academic,36,2.8,29,0,0,0,0,0,No-show,1
+R101140,Gymnasium,Staff,Tue,Morning,Meeting,13,2.6,13,1,2,0,1,0,Cancelled,1
+R101141,Conference Room,Staff,Wed,Afternoon,Event,14,5.8,7,1,0,0,1,0,Completed,0
+R101142,Conference Room,Faculty,Mon,Afternoon,Sports,13,3.6,46,0,0,1,1,0,No-show,1
+R101143,Conference Room,Staff,Tue,Morning,Academic,16,1.2,30,1,1,0,0,0,Completed,0
+R101144,Auditorium,Student Org,Wed,Afternoon,Sports,21,2.9,86,1,2,0,1,1,No-show,1
+R101145,Gymnasium,Staff,Tue,Morning,Event,13,1.5,34,0,0,0,0,1,No-show,1
+R101146,Conference Room,Staff,Mon,Afternoon,Meeting,35,3.0,42,0,0,1,1,0,Completed,0
+R101147,Conference Room,Staff,Thu,Morning,Sports,31,0.8,2,1,0,0,1,0,No-show,1
+R101148,Laboratory,Faculty,Wed,Afternoon,Event,11,1.2,29,1,0,0,1,0,Cancelled,1
+R101149,Sports Field,Staff,Wed,Morning,Event,11,2.9,45,0,0,0,1,0,Completed,0
+R101150,Classroom,External,Tue,Evening,Event,7,3.7,29,0,0,0,0,1,Completed,0
+R101151,Sports Field,Faculty,Wed,Afternoon,Event,16,3.1,25,0,1,0,1,0,Completed,0
+R101152,Classroom,Staff,Wed,Afternoon,Training,8,3.5,50,1,0,0,1,1,Completed,0
+R101153,Classroom,Staff,Wed,Morning,Event,7,2.9,85,0,1,0,1,0,Completed,0
+R101154,Laboratory,Faculty,Wed,Morning,Sports,16,2.7,44,0,0,0,0,0,Completed,0
+R101155,Classroom,External,Mon,Morning,Event,4,1.9,74,0,0,0,1,1,Completed,0
+R101156,Classroom,Student Org,Fri,Evening,Sports,21,3.5,59,1,0,0,0,0,No-show,1
+R101157,Classroom,Faculty,Mon,Afternoon,Training,16,3.7,73,0,0,0,1,1,Completed,0
+R101158,Auditorium,Student Org,Wed,Morning,Academic,30,2.4,22,0,1,0,0,1,No-show,1
+R101159,Conference Room,Student Org,Tue,Afternoon,Academic,13,2.4,34,2,0,1,0,0,Completed,0
+R101160,Classroom,Staff,Wed,Afternoon,Event,18,4.4,34,0,1,0,1,0,Completed,0
+R101161,Conference Room,Student Org,Tue,Morning,Meeting,20,2.5,56,1,1,0,1,0,Completed,0
+R101162,Conference Room,Student Org,Fri,Afternoon,Event,25,2.6,64,1,0,1,1,0,Completed,0
+R101163,Classroom,Student Org,Tue,Morning,Sports,12,3.1,44,0,0,0,1,1,Completed,0
+R101164,Classroom,Faculty,Thu,Morning,Training,7,2.4,66,0,0,0,0,0,Completed,0
+R101165,Sports Field,Staff,Tue,Afternoon,Meeting,14,1.5,23,0,1,0,1,0,Completed,0
+R101166,Conference Room,Staff,Mon,Morning,Event,21,3.0,67,0,0,1,1,1,Completed,0
+R101167,Laboratory,Student Org,Wed,Evening,Academic,23,2.5,70,0,0,1,0,1,Cancelled,1
+R101168,Conference Room,Faculty,Wed,Afternoon,Meeting,2,4.7,60,0,0,0,0,1,No-show,1
+R101169,Classroom,Faculty,Wed,Evening,Academic,56,3.4,44,0,0,0,1,0,No-show,1
+R101170,Auditorium,Faculty,Sat,Afternoon,Meeting,7,1.8,61,0,0,1,0,0,Completed,0
+R101171,Conference Room,Faculty,Thu,Evening,Meeting,18,3.4,13,0,0,1,1,0,Completed,0
+R101172,Gymnasium,Student Org,Sat,Morning,Event,27,2.9,46,2,1,0,0,1,No-show,1
+R101173,Conference Room,Faculty,Tue,Afternoon,Event,10,4.1,49,0,0,0,1,1,Completed,0
+R101174,Laboratory,Faculty,Fri,Afternoon,Meeting,23,1.9,2,0,0,0,0,1,Completed,0
+R101175,Conference Room,Faculty,Wed,Evening,Academic,2,2.7,54,1,1,0,1,0,Completed,0
+R101176,Auditorium,Faculty,Thu,Morning,Academic,24,2.4,3,0,0,0,1,1,Completed,0
+R101177,Gymnasium,Staff,Sat,Afternoon,Training,22,2.6,27,1,0,0,0,1,Completed,0
+R101178,Classroom,Staff,Thu,Afternoon,Training,15,1.4,41,0,0,0,1,0,Completed,0
+R101179,Classroom,Student Org,Fri,Morning,Meeting,21,3.2,18,1,0,0,1,0,Cancelled,1
+R101180,Conference Room,Staff,Thu,Evening,Academic,32,3.0,42,1,0,1,1,0,Completed,0
+R101181,Classroom,Staff,Mon,Morning,Meeting,27,4.0,42,0,1,1,1,0,Completed,0
+R101182,Classroom,Student Org,Thu,Morning,Event,11,2.5,15,1,1,1,1,0,Completed,0
+R101183,Classroom,Faculty,Wed,Afternoon,Meeting,13,2.0,57,1,0,1,1,0,Completed,0
+R101184,Classroom,Student Org,Fri,Afternoon,Academic,10,3.4,17,2,0,1,1,0,Completed,0
+R101185,Conference Room,Staff,Fri,Morning,Meeting,9,1.5,109,0,0,0,0,1,Completed,0
+R101186,Auditorium,Student Org,Mon,Morning,Academic,20,3.8,37,1,1,0,0,1,Completed,0
+R101187,Sports Field,Faculty,Mon,Morning,Meeting,10,3.8,5,0,1,1,1,1,Completed,0
+R101188,Classroom,Student Org,Mon,Afternoon,Academic,20,4.0,10,0,0,0,1,1,Completed,0
+R101189,Conference Room,Faculty,Wed,Evening,Event,10,3.0,74,0,0,0,1,0,No-show,1
+R101190,Auditorium,External,Mon,Afternoon,Meeting,12,1.9,28,1,1,1,1,1,Completed,0
+R101191,Auditorium,Student Org,Thu,Morning,Academic,6,2.6,2,2,1,0,0,0,Completed,0
+R101192,Sports Field,Staff,Wed,Afternoon,Event,19,3.0,66,0,0,1,0,1,No-show,1
+R101193,Sports Field,External,Fri,Evening,Meeting,2,1.8,28,0,1,0,0,1,Completed,0
+R101194,Sports Field,Staff,Tue,Afternoon,Sports,25,4.1,60,1,1,0,0,1,Cancelled,1
+R101195,Classroom,Student Org,Wed,Morning,Training,43,3.2,68,0,0,1,1,0,Completed,0
+R101196,Classroom,Staff,Mon,Morning,Academic,12,1.4,48,0,0,0,0,0,No-show,1
+R101197,Conference Room,Student Org,Fri,Evening,Sports,12,4.8,112,1,1,0,1,0,Completed,0
+R101198,Gymnasium,Student Org,Mon,Evening,Event,3,2.6,2,4,1,0,0,0,Cancelled,1
+R101199,Conference Room,Staff,Mon,Morning,Event,8,1.2,15,1,1,0,1,0,Cancelled,1
+R101200,Laboratory,Faculty,Tue,Evening,Meeting,21,1.5,32,0,1,0,1,0,Completed,0
+R101201,Laboratory,Faculty,Fri,Morning,Meeting,23,4.3,108,1,0,0,0,0,Cancelled,1
+R101202,Conference Room,Student Org,Mon,Morning,Academic,13,4.7,94,1,1,0,1,1,Completed,0
+R101203,Conference Room,Staff,Thu,Afternoon,Training,20,3.7,79,0,0,0,0,0,No-show,1
+R101204,Classroom,Staff,Thu,Afternoon,Event,6,4.1,16,1,0,0,0,1,Completed,0
+R101205,Classroom,Faculty,Thu,Afternoon,Meeting,15,4.0,20,0,0,0,0,0,Completed,0
+R101206,Laboratory,Staff,Mon,Evening,Meeting,29,3.2,15,0,0,0,1,0,Completed,0
+R101207,Laboratory,Student Org,Mon,Evening,Academic,17,2.9,16,0,0,0,1,0,Cancelled,1
+R101208,Gymnasium,Student Org,Wed,Morning,Academic,32,3.1,85,0,0,0,0,1,Completed,0
+R101209,Auditorium,Faculty,Tue,Afternoon,Event,32,3.4,33,1,0,1,1,0,Completed,0
+R101210,Conference Room,External,Thu,Afternoon,Meeting,16,1.6,37,1,2,1,1,1,Completed,0
+R101211,Conference Room,Student Org,Tue,Afternoon,Sports,0,3.4,63,1,0,1,0,0,Completed,0
+R101212,Laboratory,Student Org,Wed,Evening,Event,23,4.3,2,0,0,0,0,0,Completed,0
+R101213,Auditorium,Student Org,Mon,Afternoon,Event,4,2.3,42,1,0,0,0,0,Completed,0
+R101214,Gymnasium,Staff,Wed,Morning,Sports,1,2.1,7,0,0,0,1,0,Completed,0
+R101215,Laboratory,Student Org,Mon,Morning,Academic,2,3.1,31,1,0,0,1,0,Completed,0
+R101216,Gymnasium,Faculty,Thu,Evening,Event,24,1.7,22,0,0,1,0,1,Completed,0
+R101217,Laboratory,External,Mon,Evening,Event,16,0.9,21,1,1,0,1,0,Completed,0
+R101218,Conference Room,Student Org,Sat,Morning,Academic,13,3.9,47,0,0,1,1,0,Completed,0
+R101219,Classroom,Faculty,Thu,Morning,Academic,17,2.0,47,0,1,0,1,0,Completed,0
+R101220,Classroom,Faculty,Mon,Afternoon,Academic,2,2.5,33,2,0,0,0,1,Completed,0
+R101221,Classroom,Staff,Mon,Morning,Academic,10,1.8,51,1,0,0,1,0,Completed,0
+R101222,Sports Field,Student Org,Tue,Morning,Meeting,7,4.0,14,1,0,1,1,0,Completed,0
+R101223,Conference Room,Faculty,Mon,Evening,Academic,13,3.5,60,2,0,0,1,0,Completed,0
+R101224,Classroom,Student Org,Tue,Evening,Event,13,2.2,34,2,0,0,1,1,Cancelled,1
+R101225,Sports Field,Staff,Fri,Evening,Academic,17,1.1,25,0,1,0,0,0,No-show,1
+R101226,Auditorium,Staff,Thu,Afternoon,Academic,18,2.1,16,1,1,1,0,1,Completed,0
+R101227,Laboratory,Student Org,Mon,Morning,Meeting,2,3.2,33,0,1,0,0,1,Completed,0
+R101228,Sports Field,Student Org,Wed,Evening,Academic,10,2.7,96,2,0,1,1,0,Completed,0
+R101229,Classroom,Staff,Tue,Morning,Training,11,2.6,38,1,0,0,1,0,Completed,0
+R101230,Classroom,Student Org,Sat,Morning,Meeting,4,2.8,6,0,0,0,1,0,No-show,1
+R101231,Laboratory,Student Org,Mon,Evening,Academic,3,3.4,68,0,0,0,0,0,Completed,0
+R101232,Classroom,Faculty,Thu,Afternoon,Academic,2,2.4,26,1,0,0,1,0,Completed,0
+R101233,Conference Room,Student Org,Thu,Evening,Meeting,3,3.0,49,2,0,0,1,0,Cancelled,1
+R101234,Classroom,Student Org,Mon,Morning,Event,20,1.3,22,3,1,0,1,0,Completed,0
+R101235,Classroom,Faculty,Mon,Evening,Sports,2,5.6,78,0,0,0,0,1,Completed,0
+R101236,Classroom,Student Org,Tue,Afternoon,Meeting,3,2.2,22,3,0,1,0,0,Cancelled,1
+R101237,Auditorium,Faculty,Fri,Afternoon,Event,12,2.7,82,0,0,0,1,0,Completed,0
+R101238,Classroom,Staff,Wed,Evening,Meeting,15,3.2,9,0,0,0,0,0,Completed,0
+R101239,Classroom,Faculty,Thu,Morning,Sports,11,2.0,31,1,1,0,1,0,Completed,0
+R101240,Sports Field,Student Org,Fri,Afternoon,Event,5,2.5,82,1,0,0,0,0,Cancelled,1
+R101241,Gymnasium,Staff,Fri,Afternoon,Academic,3,2.5,45,1,0,0,0,1,No-show,1
+R101242,Gymnasium,Student Org,Wed,Afternoon,Event,12,1.4,108,1,1,0,0,0,Completed,0
+R101243,Classroom,Staff,Wed,Evening,Sports,10,3.0,32,0,0,1,0,0,Completed,0
+R101244,Gymnasium,Student Org,Thu,Afternoon,Meeting,8,0.5,48,2,0,1,1,1,Completed,0
+R101245,Gymnasium,Staff,Tue,Morning,Training,20,4.6,97,0,0,0,1,0,Completed,0
+R101246,Laboratory,Student Org,Fri,Morning,Sports,10,3.5,2,2,1,1,0,0,Completed,0
+R101247,Classroom,Student Org,Mon,Evening,Academic,3,3.3,2,0,1,0,0,0,Completed,0
+R101248,Sports Field,Faculty,Mon,Evening,Sports,8,0.5,16,0,0,0,1,0,Completed,0
+R101249,Sports Field,Student Org,Fri,Evening,Event,16,1.5,64,2,0,0,1,1,Completed,0
+R101250,Classroom,Student Org,Tue,Morning,Meeting,9,4.2,2,1,0,1,1,1,No-show,1
+R101251,Classroom,Staff,Mon,Morning,Meeting,16,7.5,58,0,0,0,1,1,Completed,0
+R101252,Classroom,Staff,Mon,Afternoon,Sports,19,3.9,56,0,1,1,0,0,Completed,0
+R101253,Laboratory,Student Org,Wed,Afternoon,Event,10,3.7,100,1,0,0,1,1,Completed,0
+R101254,Classroom,Staff,Fri,Morning,Meeting,11,3.1,71,0,0,0,0,0,Completed,0
+R101255,Sports Field,Staff,Mon,Afternoon,Academic,9,1.5,51,1,0,1,1,1,Completed,0
+R101256,Conference Room,Staff,Mon,Morning,Meeting,16,3.7,81,0,0,0,0,1,Completed,0
+R101257,Conference Room,Faculty,Wed,Afternoon,Training,9,1.2,56,0,0,0,0,0,Completed,0
+R101258,Laboratory,Faculty,Sat,Morning,Event,15,1.0,26,0,0,1,0,1,No-show,1
+R101259,Sports Field,Faculty,Tue,Morning,Academic,13,1.0,6,0,0,0,0,0,No-show,1
+R101260,Classroom,Faculty,Sat,Morning,Sports,2,3.7,23,1,1,1,1,0,Completed,0
+R101261,Auditorium,External,Fri,Evening,Sports,16,2.4,39,2,1,1,1,0,Cancelled,1
+R101262,Gymnasium,Student Org,Tue,Afternoon,Meeting,12,2.6,45,1,0,0,0,0,Completed,0
+R101263,Sports Field,Student Org,Fri,Evening,Academic,25,2.5,2,2,0,0,0,0,No-show,1
+R101264,Laboratory,Student Org,Thu,Afternoon,Event,4,1.1,33,2,1,1,0,1,Completed,0
+R101265,Conference Room,External,Wed,Afternoon,Academic,13,1.7,41,0,0,1,0,0,Completed,0
+R101266,Classroom,Faculty,Wed,Morning,Meeting,8,1.8,56,0,2,0,1,1,Completed,0
+R101267,Sports Field,Faculty,Fri,Afternoon,Event,2,0.8,89,0,1,0,1,0,Completed,0
+R101268,Laboratory,Staff,Fri,Morning,Training,1,1.9,46,0,0,0,0,1,Completed,0
+R101269,Laboratory,External,Thu,Afternoon,Meeting,29,1.2,13,0,2,0,1,1,Completed,0
+R101270,Sports Field,Student Org,Sat,Evening,Sports,13,3.2,2,0,1,0,0,1,Cancelled,1
+R101271,Auditorium,Staff,Wed,Evening,Training,9,3.3,61,1,0,0,1,0,Completed,0
+R101272,Auditorium,Staff,Fri,Morning,Academic,3,0.9,14,0,0,0,0,1,No-show,1
+R101273,Laboratory,Student Org,Fri,Afternoon,Academic,28,2.1,66,4,1,0,0,0,No-show,1
+R101274,Classroom,Staff,Tue,Morning,Event,6,4.7,82,0,1,1,1,1,Cancelled,1
+R101275,Gymnasium,Student Org,Mon,Morning,Sports,14,1.3,2,1,0,0,0,0,Completed,0
+R101276,Classroom,Faculty,Wed,Afternoon,Meeting,12,3.0,57,1,1,0,1,0,Completed,0
+R101277,Classroom,Faculty,Fri,Afternoon,Event,36,2.6,79,1,0,0,1,0,Completed,0
+R101278,Sports Field,Student Org,Tue,Afternoon,Event,11,3.8,71,1,0,0,0,0,Completed,0
+R101279,Laboratory,Student Org,Thu,Morning,Event,7,2.9,2,4,0,1,1,0,Completed,0
+R101280,Gymnasium,Student Org,Mon,Evening,Event,13,2.0,14,0,0,0,1,0,No-show,1
+R101281,Auditorium,Student Org,Tue,Evening,Academic,14,2.6,2,0,0,0,0,0,Completed,0
+R101282,Auditorium,Faculty,Thu,Afternoon,Academic,53,2.6,56,0,0,1,0,1,Cancelled,1
+R101283,Conference Room,Student Org,Mon,Evening,Academic,11,2.4,52,1,2,0,1,0,Completed,0
+R101284,Sports Field,Student Org,Fri,Morning,Training,4,0.9,2,1,1,0,0,0,Completed,0
+R101285,Sports Field,Faculty,Mon,Afternoon,Training,8,4.0,31,1,0,1,1,1,Completed,0
+R101286,Auditorium,Faculty,Fri,Evening,Sports,13,3.8,64,0,1,0,1,0,Completed,0
+R101287,Gymnasium,Faculty,Tue,Evening,Academic,15,1.2,44,0,1,0,0,1,Completed,0
+R101288,Auditorium,External,Sat,Evening,Event,2,2.1,44,1,0,0,1,0,Completed,0
+R101289,Laboratory,Student Org,Thu,Afternoon,Academic,8,2.2,29,0,0,0,0,0,Cancelled,1
+R101290,Auditorium,Staff,Mon,Evening,Meeting,35,1.1,8,0,1,0,0,0,Cancelled,1
+R101291,Conference Room,Student Org,Mon,Afternoon,Academic,5,0.5,39,1,0,0,0,1,Completed,0
+R101292,Laboratory,Staff,Mon,Morning,Sports,20,1.7,42,0,0,1,0,1,Completed,0
+R101293,Gymnasium,External,Wed,Morning,Academic,9,2.1,58,0,1,0,1,1,Completed,0
+R101294,Gymnasium,Staff,Fri,Afternoon,Event,11,0.8,61,1,1,0,0,0,Completed,0
+R101295,Auditorium,Faculty,Wed,Afternoon,Training,3,2.7,43,0,0,1,0,1,Completed,0
+R101296,Classroom,Faculty,Wed,Afternoon,Event,9,3.9,73,1,0,1,1,0,Completed,0
+R101297,Classroom,Student Org,Wed,Evening,Academic,13,3.5,29,2,0,0,0,1,No-show,1
+R101298,Conference Room,Faculty,Wed,Afternoon,Training,11,2.3,2,1,0,0,0,0,Completed,0
+R101299,Auditorium,Staff,Thu,Morning,Event,10,0.5,54,2,1,0,1,1,Completed,0
+R101300,Classroom,External,Wed,Afternoon,Meeting,17,3.4,44,0,1,0,1,1,Completed,0
+R101301,Laboratory,Faculty,Thu,Afternoon,Event,3,2.7,55,0,2,0,1,0,Completed,0
+R101302,Conference Room,Student Org,Sat,Afternoon,Sports,14,3.0,2,1,0,0,1,1,Completed,0
+R101303,Gymnasium,Faculty,Tue,Afternoon,Meeting,1,4.8,94,1,0,0,0,0,Cancelled,1
+R101304,Conference Room,Student Org,Mon,Afternoon,Meeting,24,1.5,61,0,1,0,1,0,No-show,1
+R101305,Sports Field,Student Org,Mon,Afternoon,Meeting,10,0.5,31,0,0,0,0,0,Completed,0
+R101306,Laboratory,Student Org,Wed,Afternoon,Academic,19,1.2,12,2,1,1,0,1,No-show,1
+R101307,Conference Room,Staff,Tue,Evening,Sports,0,3.1,72,0,0,0,1,0,Completed,0
+R101308,Classroom,Student Org,Sat,Morning,Academic,17,2.5,7,1,0,0,1,0,Completed,0
+R101309,Sports Field,Student Org,Thu,Afternoon,Meeting,6,1.0,108,3,1,0,1,1,No-show,1
+R101310,Auditorium,Student Org,Wed,Afternoon,Meeting,11,0.8,22,2,1,0,1,0,Completed,0
+R101311,Sports Field,Staff,Fri,Morning,Academic,17,2.1,92,1,1,0,1,1,No-show,1
+R101312,Laboratory,Faculty,Tue,Afternoon,Meeting,10,1.0,34,1,0,0,1,0,Completed,0
+R101313,Classroom,Student Org,Fri,Afternoon,Event,16,3.1,87,0,0,0,0,0,Cancelled,1
+R101314,Classroom,Student Org,Mon,Afternoon,Meeting,9,2.0,18,1,0,0,0,1,Completed,0
+R101315,Conference Room,Faculty,Thu,Afternoon,Academic,25,1.7,41,0,1,0,1,0,Completed,0
+R101316,Laboratory,Student Org,Sat,Morning,Sports,10,1.6,64,1,0,0,1,0,Completed,0
+R101317,Classroom,Faculty,Fri,Morning,Training,10,2.8,60,1,2,0,0,0,Completed,0
+R101318,Conference Room,Faculty,Fri,Morning,Meeting,10,2.6,73,0,0,1,1,1,Completed,0
+R101319,Sports Field,External,Tue,Afternoon,Meeting,11,2.7,25,1,2,1,0,0,Completed,0
+R101320,Laboratory,Student Org,Fri,Afternoon,Academic,4,2.7,43,4,1,0,1,1,Cancelled,1
+R101321,Auditorium,Faculty,Wed,Evening,Academic,5,2.4,77,0,1,0,0,1,Completed,0
+R101322,Classroom,Student Org,Thu,Afternoon,Meeting,21,1.3,19,0,0,0,1,0,Completed,0
+R101323,Conference Room,External,Mon,Morning,Training,19,1.6,57,1,0,0,1,0,No-show,1
+R101324,Gymnasium,External,Tue,Morning,Event,18,2.0,33,0,0,0,1,0,Completed,0
+R101325,Sports Field,Staff,Wed,Morning,Meeting,15,5.0,46,1,0,0,1,0,Completed,0
+R101326,Auditorium,Faculty,Mon,Afternoon,Training,7,0.9,43,1,0,0,0,0,Completed,0
+R101327,Laboratory,Student Org,Thu,Morning,Meeting,7,2.0,16,0,1,1,1,0,Completed,0
+R101328,Gymnasium,Staff,Fri,Afternoon,Academic,11,2.6,32,0,0,0,1,0,Completed,0
+R101329,Classroom,Staff,Fri,Afternoon,Meeting,23,2.1,44,0,0,1,1,1,Completed,0
+R101330,Conference Room,Student Org,Mon,Afternoon,Academic,13,3.8,37,3,0,1,0,0,No-show,1
+R101331,Laboratory,Faculty,Sat,Morning,Sports,5,2.1,87,0,0,1,0,0,Completed,0
+R101332,Laboratory,Faculty,Mon,Morning,Meeting,3,2.2,70,0,0,0,1,0,Completed,0
+R101333,Sports Field,Staff,Wed,Afternoon,Event,19,3.5,49,0,0,1,0,0,Cancelled,1
+R101334,Sports Field,Faculty,Fri,Afternoon,Meeting,28,4.7,17,0,0,0,0,0,Completed,0
+R101335,Sports Field,Faculty,Mon,Morning,Training,2,4.2,15,0,1,1,1,1,Completed,0
+R101336,Classroom,Faculty,Mon,Evening,Event,20,2.3,99,2,0,0,1,0,No-show,1
+R101337,Laboratory,Student Org,Mon,Afternoon,Meeting,15,2.4,10,0,2,0,1,0,Completed,0
+R101338,Sports Field,Student Org,Wed,Afternoon,Academic,6,2.6,43,1,1,0,1,1,Completed,0
+R101339,Auditorium,Student Org,Fri,Morning,Training,13,2.7,51,1,1,0,0,0,No-show,1
+R101340,Classroom,Staff,Mon,Morning,Meeting,4,1.5,31,1,0,0,1,1,Cancelled,1
+R101341,Conference Room,Faculty,Mon,Morning,Academic,9,3.6,10,0,0,0,1,0,No-show,1
+R101342,Laboratory,Faculty,Wed,Morning,Sports,11,2.7,16,0,1,0,0,1,Completed,0
+R101343,Laboratory,Student Org,Tue,Afternoon,Academic,25,2.4,24,1,0,0,1,1,No-show,1
+R101344,Sports Field,Student Org,Thu,Afternoon,Meeting,9,1.0,19,1,0,0,0,1,Completed,0
+R101345,Laboratory,Faculty,Sat,Evening,Meeting,6,2.6,80,0,0,0,0,0,Cancelled,1
+R101346,Auditorium,Student Org,Thu,Evening,Meeting,14,0.5,40,1,0,0,1,0,Completed,0
+R101347,Gymnasium,Student Org,Fri,Morning,Meeting,16,1.8,24,1,1,0,1,1,Completed,0
+R101348,Auditorium,Staff,Wed,Morning,Academic,6,1.8,43,0,0,0,1,0,Cancelled,1
+R101349,Classroom,Student Org,Fri,Afternoon,Academic,5,2.8,60,3,0,0,0,0,Completed,0
+R101350,Conference Room,Student Org,Mon,Evening,Academic,5,4.8,30,1,1,0,1,0,No-show,1
+R101351,Conference Room,Faculty,Mon,Evening,Academic,25,3.2,67,0,0,0,0,0,No-show,1
+R101352,Gymnasium,Staff,Thu,Morning,Training,16,4.2,2,0,0,1,0,0,Completed,0
+R101353,Gymnasium,Student Org,Mon,Morning,Event,9,3.3,75,0,2,0,1,0,Completed,0
+R101354,Sports Field,Staff,Fri,Morning,Meeting,22,3.9,40,1,0,0,0,0,Completed,0
+R101355,Classroom,External,Thu,Evening,Meeting,6,4.7,39,0,1,0,1,0,Completed,0
+R101356,Laboratory,Faculty,Sat,Afternoon,Event,10,1.6,19,1,0,1,1,0,Completed,0
+R101357,Auditorium,Faculty,Tue,Afternoon,Academic,4,1.5,3,1,1,0,0,0,Completed,0
+R101358,Conference Room,Staff,Wed,Afternoon,Academic,22,3.3,2,0,1,0,1,1,Completed,0
+R101359,Classroom,Faculty,Thu,Morning,Event,6,2.5,17,0,0,0,0,0,Completed,0
+R101360,Conference Room,Faculty,Tue,Afternoon,Meeting,6,2.8,58,0,0,0,0,0,Cancelled,1
+R101361,Auditorium,Faculty,Wed,Morning,Sports,14,2.2,11,1,0,0,1,1,Completed,0
+R101362,Laboratory,Student Org,Thu,Afternoon,Sports,1,1.8,2,0,1,1,1,0,Completed,0
+R101363,Classroom,Student Org,Sat,Afternoon,Sports,3,4.4,13,0,0,1,1,0,Completed,0
+R101364,Auditorium,Faculty,Thu,Afternoon,Academic,18,1.2,28,0,1,0,1,0,Cancelled,1
+R101365,Laboratory,Student Org,Mon,Morning,Academic,5,3.3,30,0,0,0,0,0,Completed,0
+R101366,Classroom,Faculty,Wed,Evening,Academic,44,3.1,36,1,1,0,1,0,Completed,0
+R101367,Classroom,Faculty,Wed,Afternoon,Sports,12,0.6,71,0,0,1,0,0,Completed,0
+R101368,Classroom,External,Mon,Morning,Training,2,1.5,77,0,1,1,1,1,Completed,0
+R101369,Gymnasium,Student Org,Wed,Morning,Training,29,1.7,100,0,0,0,1,0,Completed,0
+R101370,Classroom,Faculty,Tue,Afternoon,Academic,12,3.2,2,0,1,0,1,0,Completed,0
+R101371,Sports Field,Faculty,Mon,Morning,Sports,9,2.1,14,1,1,0,1,0,Completed,0
+R101372,Auditorium,Student Org,Wed,Morning,Meeting,12,2.4,61,1,0,1,1,0,Completed,0
+R101373,Conference Room,Student Org,Mon,Morning,Sports,2,0.8,26,0,0,0,1,0,Completed,0
+R101374,Sports Field,Student Org,Wed,Morning,Meeting,11,5.3,66,2,0,0,0,1,Cancelled,1
+R101375,Classroom,Student Org,Mon,Afternoon,Academic,5,2.6,46,1,0,0,1,1,Completed,0
+R101376,Conference Room,Student Org,Thu,Afternoon,Academic,10,3.1,87,2,1,0,1,1,Completed,0
+R101377,Sports Field,Faculty,Mon,Morning,Training,8,1.9,71,0,1,1,1,0,Completed,0
+R101378,Conference Room,Faculty,Fri,Afternoon,Meeting,12,1.7,72,0,1,0,1,0,Completed,0
+R101379,Auditorium,Student Org,Mon,Morning,Meeting,9,4.8,28,0,0,0,1,0,Completed,0
+R101380,Auditorium,Student Org,Wed,Morning,Meeting,7,0.5,37,2,0,0,0,0,Completed,0
+R101381,Classroom,Student Org,Tue,Morning,Meeting,5,2.8,31,1,0,0,1,0,Completed,0
+R101382,Laboratory,Faculty,Tue,Afternoon,Training,2,1.0,2,0,0,0,1,0,Completed,0
+R101383,Sports Field,Student Org,Wed,Evening,Academic,2,2.0,84,1,1,1,1,0,Completed,0
+R101384,Sports Field,Faculty,Fri,Afternoon,Academic,3,1.7,62,1,0,0,1,0,Completed,0
+R101385,Classroom,Student Org,Fri,Morning,Sports,17,1.3,30,0,1,0,0,0,Completed,0
+R101386,Conference Room,Student Org,Tue,Morning,Meeting,4,2.5,79,1,0,0,0,0,Completed,0
+R101387,Gymnasium,External,Mon,Morning,Academic,6,0.5,21,0,1,0,0,0,Completed,0
+R101388,Sports Field,Student Org,Thu,Evening,Academic,6,2.1,2,0,0,1,1,0,Completed,0
+R101389,Classroom,Student Org,Wed,Morning,Academic,8,2.4,70,2,0,0,1,0,Completed,0
+R101390,Sports Field,Student Org,Tue,Evening,Academic,15,0.9,2,1,0,0,1,0,Completed,0
+R101391,Conference Room,External,Thu,Afternoon,Academic,8,4.3,34,1,4,0,0,0,No-show,1
+R101392,Classroom,Faculty,Wed,Afternoon,Academic,19,1.8,46,0,1,1,1,1,Completed,0
+R101393,Classroom,Faculty,Thu,Evening,Event,3,2.2,52,0,0,0,1,0,Completed,0
+R101394,Conference Room,External,Tue,Morning,Sports,18,1.8,65,0,1,0,0,0,Cancelled,1
+R101395,Classroom,Student Org,Wed,Afternoon,Sports,27,2.4,57,1,0,0,0,0,Completed,0
+R101396,Laboratory,External,Mon,Morning,Meeting,11,4.1,56,1,2,1,1,0,No-show,1
+R101397,Sports Field,Student Org,Thu,Evening,Meeting,4,5.5,16,1,0,0,1,0,Cancelled,1
+R101398,Laboratory,Faculty,Mon,Afternoon,Training,15,3.4,49,0,0,1,0,0,Completed,0
+R101399,Auditorium,Faculty,Thu,Morning,Sports,11,3.8,2,0,0,0,1,0,Completed,0
+R101400,Auditorium,Student Org,Fri,Evening,Meeting,13,4.6,87,0,0,0,0,1,No-show,1
+R101401,Classroom,External,Thu,Morning,Academic,19,2.8,2,2,1,0,1,1,Completed,0
+R101402,Sports Field,Student Org,Mon,Morning,Meeting,8,4.4,30,2,0,0,0,0,Completed,0
+R101403,Gymnasium,External,Tue,Afternoon,Meeting,7,3.5,2,0,0,0,0,0,Completed,0
+R101404,Classroom,Student Org,Wed,Afternoon,Meeting,49,2.7,18,1,0,0,1,1,Completed,0
+R101405,Gymnasium,Faculty,Wed,Evening,Academic,15,2.9,40,0,0,0,0,0,Completed,0
+R101406,Sports Field,External,Fri,Afternoon,Training,22,0.5,24,0,0,0,1,1,Cancelled,1
+R101407,Classroom,Student Org,Tue,Afternoon,Event,19,2.9,74,0,0,1,1,1,Completed,0
+R101408,Sports Field,External,Fri,Morning,Event,22,0.6,47,1,1,0,1,0,Completed,0
+R101409,Conference Room,Faculty,Mon,Morning,Academic,14,0.5,26,1,0,0,0,0,Cancelled,1
+R101410,Conference Room,Staff,Tue,Evening,Sports,20,2.7,36,2,0,0,1,0,Completed,0
+R101411,Sports Field,Student Org,Mon,Morning,Event,6,1.2,77,5,1,0,1,1,No-show,1
+R101412,Conference Room,Faculty,Thu,Afternoon,Academic,2,2.5,67,2,1,0,0,0,Completed,0
+R101413,Sports Field,Faculty,Mon,Morning,Event,5,2.7,6,0,0,0,0,1,Completed,0
+R101414,Classroom,Faculty,Tue,Morning,Event,10,2.7,20,0,0,1,1,0,Completed,0
+R101415,Conference Room,Student Org,Thu,Afternoon,Sports,9,1.4,54,1,0,0,1,1,Completed,0
+R101416,Laboratory,Student Org,Wed,Afternoon,Academic,11,3.6,51,0,0,0,1,1,Completed,0
+R101417,Laboratory,Staff,Mon,Afternoon,Sports,6,2.4,8,0,0,0,1,0,Completed,0
+R101418,Sports Field,Student Org,Mon,Evening,Meeting,1,3.0,62,0,0,0,0,0,Completed,0
+R101419,Sports Field,Staff,Wed,Morning,Academic,8,1.1,13,1,0,0,0,0,Completed,0
+R101420,Conference Room,External,Tue,Afternoon,Academic,3,2.3,79,0,1,0,1,1,Completed,0
+R101421,Laboratory,Student Org,Mon,Morning,Academic,10,3.8,56,0,0,0,1,1,Completed,0
+R101422,Auditorium,Student Org,Thu,Afternoon,Academic,14,3.7,6,2,0,1,1,0,Cancelled,1
+R101423,Auditorium,Faculty,Tue,Morning,Meeting,8,1.5,24,0,0,0,1,1,Completed,0
+R101424,Gymnasium,Student Org,Wed,Afternoon,Event,4,1.8,24,3,0,0,1,0,Completed,0
+R101425,Auditorium,Faculty,Tue,Morning,Academic,11,1.3,45,2,0,0,1,0,Completed,0
+R101426,Classroom,Faculty,Mon,Evening,Training,51,1.7,34,2,0,0,1,1,Cancelled,1
+R101427,Classroom,Faculty,Mon,Evening,Academic,15,0.8,6,1,1,1,1,0,Completed,0
+R101428,Conference Room,Student Org,Tue,Evening,Event,16,2.3,2,1,0,0,0,1,No-show,1
+R101429,Auditorium,Faculty,Mon,Morning,Training,7,3.3,56,0,0,0,0,0,Cancelled,1
+R101430,Sports Field,Faculty,Tue,Evening,Sports,5,1.6,49,0,0,0,1,0,Completed,0
+R101431,Laboratory,Student Org,Fri,Morning,Event,22,2.4,43,0,0,0,1,0,Completed,0
+R101432,Classroom,Faculty,Fri,Morning,Event,1,2.2,48,1,1,0,0,0,Cancelled,1
+R101433,Classroom,Staff,Tue,Morning,Academic,6,3.8,21,1,0,1,1,0,Completed,0
+R101434,Classroom,Faculty,Wed,Morning,Academic,31,1.8,46,0,1,0,0,1,No-show,1
+R101435,Sports Field,Faculty,Wed,Afternoon,Meeting,10,1.8,116,0,0,0,1,0,Completed,0
+R101436,Classroom,Student Org,Fri,Morning,Academic,2,1.5,75,1,0,0,0,0,Completed,0
+R101437,Laboratory,Student Org,Tue,Morning,Meeting,14,1.1,31,0,0,0,1,0,Completed,0
+R101438,Sports Field,Student Org,Tue,Afternoon,Academic,8,3.1,24,1,1,0,0,0,Completed,0
+R101439,Sports Field,Student Org,Tue,Evening,Training,2,2.3,2,0,1,0,1,0,Completed,0
+R101440,Classroom,External,Mon,Afternoon,Sports,13,2.6,72,0,4,0,0,1,Cancelled,1
+R101441,Classroom,Student Org,Tue,Afternoon,Sports,11,4.0,64,0,0,0,1,1,Completed,0
+R101442,Classroom,Staff,Fri,Morning,Event,11,4.1,24,0,0,1,1,0,Completed,0
+R101443,Classroom,Student Org,Fri,Evening,Academic,15,0.5,2,0,0,0,0,0,Cancelled,1
+R101444,Classroom,Student Org,Mon,Morning,Academic,4,3.3,5,3,0,0,1,0,Completed,0
+R101445,Laboratory,Faculty,Wed,Morning,Event,13,2.8,53,0,0,0,1,0,Completed,0
+R101446,Sports Field,Student Org,Tue,Morning,Event,12,1.9,37,0,1,0,1,1,Completed,0
+R101447,Laboratory,Staff,Wed,Afternoon,Meeting,22,2.9,61,0,1,0,0,0,Completed,0
+R101448,Conference Room,External,Wed,Morning,Meeting,6,0.5,43,0,3,0,0,1,Cancelled,1
+R101449,Classroom,Staff,Mon,Afternoon,Meeting,24,4.3,69,0,0,0,1,0,Completed,0
+R101450,Conference Room,Student Org,Fri,Morning,Academic,19,3.1,51,0,0,0,0,1,Completed,0
+R101451,Laboratory,Staff,Sat,Afternoon,Meeting,10,1.5,65,1,1,0,0,1,Completed,0
+R101452,Sports Field,Student Org,Thu,Afternoon,Meeting,11,1.8,2,0,1,1,0,1,No-show,1
+R101453,Sports Field,External,Thu,Morning,Event,1,0.5,3,1,4,0,1,1,Cancelled,1
+R101454,Gymnasium,Faculty,Wed,Afternoon,Training,11,2.1,29,0,0,0,1,0,Completed,0
+R101455,Classroom,Student Org,Tue,Afternoon,Meeting,18,1.9,72,0,0,0,1,1,Completed,0
+R101456,Classroom,Student Org,Mon,Afternoon,Event,9,0.9,96,2,0,0,1,0,Completed,0
+R101457,Auditorium,Student Org,Wed,Morning,Sports,22,3.4,35,1,1,0,1,0,Cancelled,1
+R101458,Sports Field,Student Org,Mon,Afternoon,Academic,15,4.0,22,0,0,0,0,0,Cancelled,1
+R101459,Auditorium,External,Fri,Morning,Event,37,2.5,2,0,0,0,0,0,Completed,0
+R101460,Conference Room,Staff,Wed,Morning,Meeting,6,2.1,66,0,0,0,0,1,Completed,0
+R101461,Laboratory,External,Wed,Morning,Event,17,3.0,23,0,2,0,1,0,Cancelled,1
+R101462,Classroom,Student Org,Tue,Afternoon,Academic,3,2.5,129,4,0,0,1,0,Cancelled,1
+R101463,Gymnasium,Faculty,Sat,Morning,Training,9,1.2,18,2,0,0,0,0,Completed,0
+R101464,Conference Room,Student Org,Mon,Afternoon,Training,15,1.7,103,1,0,0,1,0,Cancelled,1
+R101465,Conference Room,Faculty,Mon,Morning,Academic,17,2.1,62,3,2,0,0,1,No-show,1
+R101466,Auditorium,Student Org,Mon,Afternoon,Academic,8,2.8,9,1,0,0,1,1,Completed,0
+R101467,Classroom,Student Org,Thu,Morning,Academic,23,2.5,47,0,0,0,1,0,Completed,0
+R101468,Conference Room,Faculty,Sat,Afternoon,Sports,27,2.8,63,0,0,1,0,0,No-show,1
+R101469,Classroom,Student Org,Tue,Afternoon,Event,6,0.7,33,2,0,0,0,0,Completed,0
+R101470,Sports Field,Faculty,Fri,Morning,Academic,9,3.3,65,0,0,1,1,0,Completed,0
+R101471,Classroom,Faculty,Tue,Morning,Sports,9,2.5,64,0,0,0,0,0,Completed,0
+R101472,Classroom,Student Org,Thu,Afternoon,Meeting,7,5.6,58,0,1,0,1,1,Completed,0
+R101473,Laboratory,External,Mon,Evening,Meeting,26,2.0,40,1,1,0,1,0,No-show,1
+R101474,Laboratory,Faculty,Wed,Evening,Meeting,25,2.9,5,0,0,0,1,0,Completed,0
+R101475,Laboratory,Staff,Thu,Morning,Meeting,9,5.9,38,0,0,0,0,1,Completed,0
+R101476,Auditorium,Faculty,Wed,Afternoon,Meeting,16,2.7,45,1,0,0,0,0,Completed,0
+R101477,Sports Field,Staff,Tue,Morning,Academic,22,2.4,2,0,0,1,1,1,Completed,0
+R101478,Laboratory,Staff,Fri,Morning,Meeting,13,1.3,45,0,2,1,0,0,No-show,1
+R101479,Laboratory,Staff,Sat,Afternoon,Training,8,4.3,37,1,0,1,0,0,Cancelled,1
+R101480,Auditorium,Faculty,Wed,Afternoon,Meeting,6,1.1,2,0,0,0,1,0,Cancelled,1
+R101481,Classroom,Student Org,Thu,Afternoon,Training,18,3.0,30,0,1,0,1,0,Completed,0
+R101482,Laboratory,Student Org,Fri,Evening,Event,3,1.9,31,2,0,1,1,1,Completed,0
+R101483,Classroom,Faculty,Tue,Morning,Sports,9,2.3,98,0,2,0,1,0,Completed,0
+R101484,Conference Room,Student Org,Fri,Afternoon,Academic,7,0.8,47,0,0,0,0,0,Completed,0
+R101485,Classroom,Student Org,Tue,Morning,Sports,3,4.1,71,0,0,0,0,1,Completed,0
+R101486,Sports Field,Student Org,Thu,Morning,Academic,10,2.2,36,0,0,0,1,0,Completed,0
+R101487,Auditorium,Faculty,Mon,Morning,Academic,9,1.0,2,0,0,0,1,0,Completed,0
+R101488,Sports Field,Student Org,Tue,Evening,Academic,5,4.0,60,0,1,0,1,1,No-show,1
+R101489,Laboratory,Faculty,Wed,Afternoon,Academic,25,1.9,20,0,1,0,1,0,Completed,0
+R101490,Classroom,Staff,Wed,Morning,Training,18,2.9,30,0,1,0,1,1,Cancelled,1
+R101491,Conference Room,Staff,Fri,Afternoon,Training,11,3.5,8,0,0,0,1,0,Completed,0
+R101492,Conference Room,Student Org,Sat,Evening,Sports,19,3.1,42,1,0,0,1,1,No-show,1
+R101493,Conference Room,Faculty,Mon,Evening,Academic,23,0.5,72,3,0,0,1,0,Completed,0
+R101494,Auditorium,Faculty,Tue,Afternoon,Sports,26,3.3,68,0,0,1,1,0,Completed,0
+R101495,Conference Room,Faculty,Tue,Morning,Event,6,2.4,88,0,0,0,1,1,Completed,0
+R101496,Sports Field,Faculty,Wed,Afternoon,Meeting,19,2.1,92,0,1,0,1,0,Completed,0
+R101497,Conference Room,Student Org,Wed,Evening,Meeting,9,2.4,2,0,0,0,1,0,No-show,1
+R101498,Gymnasium,External,Fri,Evening,Event,12,0.6,4,0,2,1,1,0,Cancelled,1
+R101499,Conference Room,Student Org,Thu,Evening,Academic,6,2.7,2,2,0,0,1,0,Cancelled,1
